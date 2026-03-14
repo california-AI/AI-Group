@@ -5188,5 +5188,37 @@
     "time": "2026-03-13",
     "ai_profile": "",
     "order": 175
+  },
+  {
+    "name": "Der wulfeit Nicht",
+    "intro": "背景：高校在读研究生，本科信号处理，实习主要做基于KG和向量库的RAG检索系统，目前AI+工控方向，关注AI infra和工程可落地的AI智能体、智能体工程应用\n擅长面向硬件开发，vibe coding，osint收集和分析\n一句话：想链接天马行空的idea和坚实可靠的工程地基",
+    "bio": "",
+    "background": "",
+    "ai_profile": "",
+    "skills": [],
+    "tags": [
+      {
+        "category": "industry",
+        "label": "AI/人工智能"
+      },
+      {
+        "category": "skill",
+        "label": "RAG/知识图谱"
+      },
+      {
+        "category": "skill",
+        "label": "硬件开发"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      },
+      {
+        "category": "city",
+        "label": "上海"
+      }
+    ],
+    "order": 176,
+    "id": 176
   }
 ]
