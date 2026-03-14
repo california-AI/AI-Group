@@ -4584,20 +4584,24 @@
     "order": 148
   },
   {
-    "name": "黄明华",
+    "name": "贾明华",
     "bio": "",
     "background": "",
     "skills": [],
     "city": "",
     "tags": [
       {
-        "category": "city",
-        "label": "其它"
+        "category": "industry",
+        "label": "机器人/具身智能"
+      },
+      {
+        "category": "interest",
+        "label": "养虾"
       }
     ],
     "id": 123,
     "contact": "",
-    "intro": "",
+    "intro": "具身智能机器人方向。最近痴迷养虾，目前育有三只虾，日均消耗百元美金。",
     "time": "2026-03-10",
     "ai_profile": "",
     "order": 149
@@ -5184,21 +5188,5 @@
     "time": "2026-03-13",
     "ai_profile": "",
     "order": 175
-  },
-  {
-    "name": "贾明华",
-    "intro": "具身智能机器人方向。最近痴迷养虾，目前育有三只虾，日均消耗百元美金。",
-    "tags": [
-      {
-        "category": "industry",
-        "label": "机器人/具身智能"
-      },
-      {
-        "category": "interest",
-        "label": "养虾"
-      }
-    ],
-    "order": 176,
-    "id": 176
   }
 ]
