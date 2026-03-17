@@ -1026,7 +1026,7 @@ function memberCard(m) {
       <div class="avatar" style="background:${color}">${initial}</div>
       <div><div class="card-name">${esc(m.name)}</div><div class="card-time">${timeStr}</div></div>
     </div>
-    <div class="card-intro">${esc(m.ai_profile ? m.ai_profile.split('\n\n')[0].replace(/\*\*/g,'').replace(/^详细背景[：:]\s*/,'') : (m.intro || '暂无自我介绍'))}</div>
+    <div class="card-intro">${esc(m.ai_profile ? m.ai_profile.replace(/\*\*/g,'').replace(/^详细背景[：:]\s*/,'') : (m.intro || '暂无自我介绍'))}</div>
     <div class="card-tags">${tags}</div>
   </div>`;
 }
