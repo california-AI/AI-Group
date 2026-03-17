@@ -535,7 +535,7 @@ function getColor(name) {
 
 function genId() { return Date.now().toString(36) + Math.random().toString(36).slice(2, 7); }
 
-const DATA_VERSION = '2026-03-16-v49';
+const DATA_VERSION = '2026-03-16-v50';
 function loadData() {
   try {
     const ver = localStorage.getItem(STORAGE_KEY + '_version');
