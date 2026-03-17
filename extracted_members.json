@@ -5223,24 +5223,6 @@
     "order": 179
   },
   {
-    "name": "Frank Sui",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 195,
-    "contact": "",
-    "ai_profile": "",
-    "order": 180
-  },
-  {
     "name": "Nightwish（李岩）",
     "bio": "",
     "background": "",
@@ -5269,7 +5251,7 @@
     "intro": "详细背景：游戏、教育、军工行业，专注元宇宙虚拟仿真、数字孪生行业\n擅长：AI+仿真产品和应用的研发\n关注：AI具身智能、仿真训练\n一句话：寻找AI和具身智能类资源再往应用层面落地",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 181
+    "order": 180
   },
   {
     "name": "Sandy",
@@ -5287,7 +5269,7 @@
     "id": 196,
     "contact": "",
     "ai_profile": "",
-    "order": 182
+    "order": 181
   },
   {
     "name": "Chenyu Zhang",
@@ -5305,7 +5287,7 @@
     "id": 197,
     "contact": "",
     "ai_profile": "",
-    "order": 183
+    "order": 182
   },
   {
     "name": "刘铁锋",
@@ -5323,7 +5305,7 @@
     "id": 198,
     "contact": "",
     "ai_profile": "",
-    "order": 184
+    "order": 183
   },
   {
     "name": "Hongyu（泓宇）",
@@ -5354,7 +5336,7 @@
     "intro": "详细背景：Crypto行业5年（交易所上市组、VC），之前在央视新闻中心做内容创作，从0到1做了一个百万粉时政类账号\n擅长：内容创作、Crypto\n关注：OpenClaw、Claude Code、Vibe Coding\n一句话：文科生也能接触到产品开发的流程，希望后面能做出些好玩的产品",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 185
+    "order": 184
   },
   {
     "name": "jangitpoon（潘振杰）",
@@ -5381,25 +5363,7 @@
     "intro": "详细背景：元宇宙/AI Agent/算力供应/国产算力建设\n擅长：AI Agent开发，算力运营\n关注：AI应用场景落地\n一句话：通过AI找算力供应，算力建设，系统应用场景交付",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 186
-  },
-  {
-    "name": "Shuang Wang",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 199,
-    "contact": "",
-    "ai_profile": "",
-    "order": 187
+    "order": 185
   },
   {
     "name": "H.",
@@ -5417,7 +5381,7 @@
     "id": 200,
     "contact": "",
     "ai_profile": "",
-    "order": 188
+    "order": 186
   },
   {
     "name": "楷瑞",
@@ -5435,7 +5399,7 @@
     "id": 201,
     "contact": "",
     "ai_profile": "",
-    "order": 189
+    "order": 187
   },
   {
     "name": "Jason",
@@ -5453,7 +5417,7 @@
     "id": 202,
     "contact": "",
     "ai_profile": "",
-    "order": 190
+    "order": 188
   },
   {
     "name": "刘旌",
@@ -5471,7 +5435,7 @@
     "id": 203,
     "contact": "",
     "ai_profile": "",
-    "order": 191
+    "order": 189
   },
   {
     "name": "Jeremy",
@@ -5489,25 +5453,7 @@
     "id": 204,
     "contact": "",
     "ai_profile": "",
-    "order": 192
-  },
-  {
-    "name": "小酒窝",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 205,
-    "contact": "",
-    "ai_profile": "",
-    "order": 193
+    "order": 190
   },
   {
     "name": "赵韬博-Jacob",
@@ -5525,25 +5471,7 @@
     "id": 206,
     "contact": "",
     "ai_profile": "",
-    "order": 194
-  },
-  {
-    "name": "Lisa",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 207,
-    "contact": "",
-    "ai_profile": "",
-    "order": 195
+    "order": 191
   },
   {
     "name": "J",
@@ -5561,7 +5489,7 @@
     "id": 208,
     "contact": "",
     "ai_profile": "",
-    "order": 196
+    "order": 192
   },
   {
     "name": "reegan",
@@ -5579,7 +5507,7 @@
     "id": 209,
     "contact": "",
     "ai_profile": "",
-    "order": 197
+    "order": 193
   },
   {
     "name": "aix",
@@ -5597,7 +5525,7 @@
     "id": 210,
     "contact": "",
     "ai_profile": "",
-    "order": 198
+    "order": 194
   },
   {
     "name": "David Shao",
@@ -5615,7 +5543,7 @@
     "id": 211,
     "contact": "",
     "ai_profile": "",
-    "order": 199
+    "order": 195
   },
   {
     "name": "李嘉",
@@ -5633,7 +5561,7 @@
     "id": 212,
     "contact": "",
     "ai_profile": "",
-    "order": 200
+    "order": 196
   },
   {
     "name": "侯正鹏",
@@ -5651,25 +5579,7 @@
     "id": 213,
     "contact": "",
     "ai_profile": "",
-    "order": 201
-  },
-  {
-    "name": "Leo Fang",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 214,
-    "contact": "",
-    "ai_profile": "",
-    "order": 202
+    "order": 197
   },
   {
     "name": "Shirley",
@@ -5687,7 +5597,7 @@
     "id": 215,
     "contact": "",
     "ai_profile": "",
-    "order": 203
+    "order": 198
   },
   {
     "name": "GZ",
@@ -5705,7 +5615,7 @@
     "id": 216,
     "contact": "",
     "ai_profile": "",
-    "order": 204
+    "order": 199
   },
   {
     "name": "Der wulfeit Nicht",
@@ -5739,6 +5649,82 @@
     "id": 217,
     "contact": "",
     "ai_profile": "",
-    "order": 205
+    "order": 200
+  },
+  {
+    "name": "A GritPeriod（二号）",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "纽约",
+    "tags": [
+      {
+        "category": "city",
+        "label": "纽约"
+      }
+    ],
+    "id": 220,
+    "contact": "",
+    "intro": "尚未自我介绍",
+    "time": "2026-03-17",
+    "ai_profile": "",
+    "order": 201
+  },
+  {
+    "name": "秦楚辞 Xavier",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "帕罗奥图",
+    "tags": [
+      {
+        "category": "city",
+        "label": "帕罗奥图"
+      }
+    ],
+    "id": 218,
+    "contact": "",
+    "intro": "尚未自我介绍",
+    "time": "2026-03-17",
+    "ai_profile": "",
+    "order": 202
+  },
+  {
+    "name": "欣欣（回复慢请见谅）",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "硅谷",
+    "tags": [
+      {
+        "category": "city",
+        "label": "硅谷"
+      }
+    ],
+    "id": 219,
+    "contact": "",
+    "intro": "尚未自我介绍",
+    "time": "2026-03-17",
+    "ai_profile": "",
+    "order": 203
+  },
+  {
+    "name": "Andrea 安德",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "北京",
+    "tags": [
+      {
+        "category": "city",
+        "label": "北京"
+      }
+    ],
+    "id": 221,
+    "contact": "",
+    "intro": "尚未自我介绍",
+    "time": "2026-03-17",
+    "ai_profile": "",
+    "order": 204
   }
 ]

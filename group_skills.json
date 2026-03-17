@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "sharer": "天晴了",
+    "topic": "Claude Code的Agent Team功能",
+    "description": "CC的批量任务会自动拆分几个sub agent并行，可以手动开启agent team。Agent team最酷的是在线运维和迭代系统：一个跟踪日志找问题，一个修修补补，一个测来测去确保不出错，上下文管理和交互都帮你做了。",
+    "category": "工具技巧",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 2,
+    "sharer": "天晴了",
+    "topic": "港大开源CLI-Anything工具",
+    "description": "香港大学开源的CLI-Anything，一句命令让任何软件变Agent原生，是Claude Code的插件。",
+    "category": "开源工具",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 3,
+    "sharer": "毛华",
+    "topic": "OpenClaw代码库安全审计结果",
+    "description": "详细排查了OpenClaw整个代码库，结论：默认不会偷偷上传私人数据或收集用户行为习惯；无第三方商用数据分析组件；OpenTelemetry默认关闭；本地优先设计保护本地数据，可放心使用3.8版本。",
+    "category": "安全分析",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 4,
+    "sharer": "咕咚波哥",
+    "topic": "龙虾部署策略建议",
+    "description": "龙虾分品种部署：美国部署美国龙虾，国内部署中国龙虾。养龙虾是短期热潮，更简单的APP或SAAS作为前端、龙虾作为内核驱动的模式更适合普通用户。",
+    "category": "部署方案",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 5,
+    "sharer": "咕咚波哥",
+    "topic": "ACPX安装与使用指南",
+    "description": "撰写了详细的ACPX（Agent Communication Protocol Extension）安装与使用指南，帮助群友快速上手。",
+    "category": "教程指南",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 6,
+    "sharer": "毛华",
+    "topic": "使用Antigravity自动更新维护龙虾",
+    "description": "全面使用Antigravity工具进行龙虾的自动更新维护，简化运维流程。",
+    "category": "工具技巧",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 7,
+    "sharer": "亚当 Adam",
+    "topic": "斯坦福开源医药版OpenClaw",
+    "description": "斯坦福重磅开源的医药版OpenClaw（生物学claw），206+龙虾军团全自动，第一个生物学领域的claw应用。",
+    "category": "行业应用",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 8,
+    "sharer": "哲",
+    "topic": "三订阅零API费方案",
+    "description": "利用OpenAI收购OpenClaw的契机，用subscription quota驱动openclaw，结合CC CLI和Cursor CLI，实现只付三个plan订阅费而不用额外API费用。",
+    "category": "成本优化",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 9,
+    "sharer": "Aiden Chaoyang He",
+    "topic": "ACP/A2A/MCP三协议关系总结",
+    "description": "人与Agent用ACP，Agent与Agent用A2A，Agent与函数用MCP。ACP是能力层面最后一块协议拼图。",
+    "category": "技术洞察",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 10,
+    "sharer": "Trigg-日东",
+    "topic": "AI电话助理：小企业永不漏接电话",
+    "description": "面向小企业的AI电话助理方案，6大核心功能：1️⃣永不漏接电话——AI 7×24自动接电话，记录客户需求、预约和联系方式；2️⃣AI理解客户需求——电话内容自动转写并理解，生成结构化客户记录（客户、需求、时间、订单线索）；3️⃣员工随时监听接管——按免提键可监听AI通话，需要时立即人工接管；4️⃣一键AI助理——按AI TALK直接语音指令（打电话、查订单、记事情）；5️⃣自动记录所有沟通——电话、语音、对话全部自动变成客户记录/待办事项/订单线索；6️⃣自动生成每日经营报告——每天自动总结电话数量、客户需求、预约、潜在订单。",
+    "category": "产品方案",
+    "date": "2026-03-11"
+  },
+  {
+    "id": 11,
+    "sharer": "Nancy 兰馨",
+    "topic": "Harness Engineering 精选资料汇编",
+    "description": "精选5篇Harness Engineering核心文章：LangChain深度Agent改进、HashiCorp创始人AI进化5步论、OpenAI零手写代码交付百万行、Martin Fowler分析、改diff格式Grok从6.7%飙到68.3%。",
+    "fullText": "Harness Engineering 精选资料汇编\n\n0. LangChain:\n• Improving Deep Agents with Harness Engineering\nhttps://blog.langchain.com/improving-deep-agents-with-harness-engineering/\n• The Anatomy of an Agent Harness（3天前）\nhttps://blog.langchain.com/the-anatomy-of-an-agent-harness/\n\n1. Mitchell Hashimoto（HashiCorp/Terraform 创始人）:\nAI 使用进化之路，\"Engineer the Harness\" 是第5步\nhttps://mitchellh.com/writing/my-ai-adoption-journey\n\n2. OpenAI:\n5 名工程师，5 个月，零手写代码，交付 100 万行生产代码\nhttps://openai.com/index/harness-engineering\n\n3. Martin Fowler 分析:\nhttps://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html\n\n4. Can Bolük:\n只改 diff 格式，Grok 从 6.7% 跑到 68.3%\n验证：Google 看到结果后封了他帐号\nhttps://abit.ee/en/artificial-intelligence/hashline-ai-agents-cursor-aider-claude-code-oh-my-pi-diff-format-grok-gemini-benchmark-open-source-g-en",
+    "category": "学习资料",
+    "date": "2026-03-14"
+  }
+]
