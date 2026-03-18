@@ -5668,7 +5668,8 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 201
+    "order": 201,
+    "invited_by": "Patrick Liu"
   },
   {
     "name": "秦楚辞 Xavier",
@@ -5687,7 +5688,8 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 202
+    "order": 202,
+    "invited_by": "Patrick Liu"
   },
   {
     "name": "欣欣（回复慢请见谅）",
@@ -5706,7 +5708,8 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 203
+    "order": 203,
+    "invited_by": "Patrick Liu"
   },
   {
     "name": "Andrea 安德",
@@ -5725,6 +5728,27 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 204
+    "order": 204,
+    "invited_by": "氪莱Sheng (范策Sheng)"
+  },
+  {
+    "name": "Livia Wang-悦",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "新加坡",
+    "tags": [
+      {
+        "category": "city",
+        "label": "新加坡"
+      }
+    ],
+    "id": 222,
+    "contact": "",
+    "intro": "尚未自我介绍",
+    "time": "2026-03-18",
+    "ai_profile": "",
+    "invited_by": "Jeff",
+    "order": 205
   }
 ]
