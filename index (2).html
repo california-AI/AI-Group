@@ -78,6 +78,8 @@ input,textarea,select{font-family:var(--font);outline:none}
 /* Cards Grid */
 .cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
 .member-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:20px;cursor:pointer;transition:all .3s;position:relative;overflow:hidden}
+.member-card.highlight{border-color:var(--teal);box-shadow:0 0 20px rgba(0,212,255,.25);animation:highlightPulse 1.5s ease 2}
+@keyframes highlightPulse{0%,100%{box-shadow:0 0 20px rgba(0,212,255,.25)}50%{box-shadow:0 0 35px rgba(0,212,255,.5)}}
 .member-card:hover{border-color:rgba(0,212,255,.3);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,.3)}
 .member-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--teal),var(--green));opacity:0;transition:opacity .3s}
 .member-card:hover::before{opacity:1}
@@ -730,7 +732,7 @@ function getLogoColor(name) {
 
 function genId() { return Date.now().toString(36) + Math.random().toString(36).slice(2, 7); }
 
-const DATA_VERSION = '2026-03-18-v56';
+const DATA_VERSION = '2026-03-18-v57';
 function loadData() {
   try {
     const ver = localStorage.getItem(STORAGE_KEY + '_version');
