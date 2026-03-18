@@ -5,7 +5,8 @@
     "topic": "Claude Code的Agent Team功能",
     "description": "CC的批量任务会自动拆分几个sub agent并行，可以手动开启agent team。Agent team最酷的是在线运维和迭代系统：一个跟踪日志找问题，一个修修补补，一个测来测去确保不出错，上下文管理和交互都帮你做了。",
     "category": "工具技巧",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "对，长的批量任务会自动拆分几个sub agent并行，复杂的例如一个负责改一个负责测试，可以手动开启agent team。\n\ncc的agent team最酷的是在线运维和迭代系统，一个跟踪日志找问题，一个修修补补，一个测来测去确保不出错，上下文管理和交互那些，cc都替你做了。"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "topic": "港大开源CLI-Anything工具",
     "description": "香港大学开源的CLI-Anything，一句命令让任何软件变Agent原生，是Claude Code的插件。",
     "category": "开源工具",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "香港大学开源的CLI-Anything，一句命令让任何软件变Agent原生，是claude code的插件cli-anything。"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "topic": "OpenClaw代码库安全审计结果",
     "description": "详细排查了OpenClaw整个代码库，结论：默认不会偷偷上传私人数据或收集用户行为习惯；无第三方商用数据分析组件；OpenTelemetry默认关闭；本地优先设计保护本地数据，可放心使用3.8版本。",
     "category": "安全分析",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "我已经帮您仔细排查了 OpenClaw 的整个代码库：\n\n结论是：本项目默认不会偷偷上传您的任何私人数据或收集用户行为习惯。\n\n详细排查结果如下：\n\n无第三方埋点/商业数据分析：在我对 package.json 以及整个核心代码库的扫描中，没有发现任何商用数据分析组件的侵入痕迹（比如 Mixpanel、PostHog、Google Analytics、Amplitude 等）。\n\n只有标准的企业可观测性（OpenTelemetry）且默认关闭：如果您自己不去主动明确配置一个接受数据的服务器地址，它绝对不会向外发送任何数据。\n\n本地第一优先：其核心设计就是保护本地数据。\n\n您可以完全放心使用 3.8 版本！"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "topic": "龙虾部署策略建议",
     "description": "龙虾分品种部署：美国部署美国龙虾，国内部署中国龙虾。养龙虾是短期热潮，更简单的APP或SAAS作为前端、龙虾作为内核驱动的模式更适合普通用户。",
     "category": "部署方案",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "以后龙虾还要分品种，部署在美国的是美国龙虾，部署在国内的是中国龙虾🦞\n\n所以我觉得养龙虾是短期的热潮，过了，还是更简单的APP或者SAAS作为前端，龙虾作为内核驱动，这种模式更适合普通用户。\n\n养龙虾维护成本很高，对普通用户更高。我现在维护工作都是让CC干。不只是金钱成本，是很多用户根本维修和维护不了。\n\n所以我觉得手机应该作为控制器，如果手机本身安装龙虾，是不是更危险？按照目前的龙虾安全性，我是不打算在手机上直接安装龙虾的。用户服务器+手机IM这个模式更好。"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "topic": "ACPX安装与使用指南",
     "description": "撰写了详细的ACPX（Agent Communication Protocol Extension）安装与使用指南，帮助群友快速上手。",
     "category": "教程指南",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "📋 ACPX 安装与使用指南（给 AI 助手）\n\n◆ 什么是 ACPX?\nACPX 让你通过命令行控制本地的 Claude Code 和 Codex 等编码 agent。编码任务走本地订阅（Claude Max / OpenAI Pro），不消耗 API key，省钱。\n\n◆ 前置条件\n• macOS / Linux，Node.js 已安装\n• OpenClaw 升级到 2026.3.8+（必须！）\n• Claude Code CLI 已安装且已登录\n• Codex CLI 已安装且已登录\n\n◆ 升级 OpenClaw\nopenclaw --version\npnpm update -g openclaw\nopenclaw gateway restart\n\n◆ 安装 ACPX 插件\nopenclaw plugin install acpx\n\n在 ~/.openclaw/openclaw.json 中启用：\nacpx: { enabled: true, config: { permissionMode: approve-all } }\n\n然后：openclaw gateway restart\n\n◆ ACPX 命令路径\nACPX_CMD=/opt/homebrew/lib/node_modules/openclaw/extensions/acpx/node_modules/.bin/acpx\n\n验证：ACPX_CMD --version（应输出 0.1.15）\n\n◆ 基本用法\n\n一次性执行：\nACPX_CMD --approve-all claude exec 编码指令\nACPX_CMD --approve-all codex exec 编码指令\n\n持久会话：\nACPX_CMD claude sessions new --name my-session\nACPX_CMD --approve-all claude -s my-session 继续指令\nACPX_CMD claude sessions close my-session\n\n◆ 支持的 Agent\n• claude → Claude Code（走 Claude Max 订阅）\n• codex → Codex CLI（走 OpenAI 订阅）\n• gemini → Gemini CLI（走 Google 额度）\n• opencode → OpenCode\n\n◆ 关键注意\n🔵 必须加 --approve-all，否则文件写入会被拒绝\n🔵 全局选项放在 agent 名称前面\n\n◆ 使用策略\n• 小任务（改一行、问答）→ 自己直接做\n• 大任务（新功能、重构）→ 派给 CC/Codex 省钱\n\n◆ 常见问题\n• 写入被拒 → 加 --approve-all\n• 命令找不到 → 确认 ACPX 路径\n• Agent 未登录 → 终端运行 claude login 或 codex login\n• sessions_spawn 报错 → 改用 exec 调 acpx CLI"
   },
   {
     "id": 6,
@@ -53,7 +58,8 @@
     "topic": "斯坦福开源医药版OpenClaw",
     "description": "斯坦福重磅开源的医药版OpenClaw（生物学claw），206+龙虾军团全自动，第一个生物学领域的claw应用。",
     "category": "行业应用",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "斯坦福重磅开源的医药版OpenClaw（生物学claw），206+龙虾军团全自动，第一个生物学领域的claw应用。"
   },
   {
     "id": 8,
@@ -61,7 +67,8 @@
     "topic": "三订阅零API费方案",
     "description": "利用OpenAI收购OpenClaw的契机，用subscription quota驱动openclaw，结合CC CLI和Cursor CLI，实现只付三个plan订阅费而不用额外API费用。",
     "category": "成本优化",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "same，我现在main model是用codex，因为openai刚刚收购了openclaw，所以它允许openclaw用它的subscription quota去使用openclaw，然后再增加一个skill和script，让所有的编程任务都随机route到cc cli或者cursor的cli，这样子基本上只要支付三个plan的subscription而不用再给任何的api费用。"
   },
   {
     "id": 9,
@@ -69,7 +76,8 @@
     "topic": "ACP/A2A/MCP三协议关系总结",
     "description": "人与Agent用ACP，Agent与Agent用A2A，Agent与函数用MCP。ACP是能力层面最后一块协议拼图。",
     "category": "技术洞察",
-    "date": "2026-03-10"
+    "date": "2026-03-10",
+    "fullText": "ACP蛮重要的，可以让不同的交互入口使用同一个agent依然不丢失上下文。比如我们Teamily AI中可以手机上发起写代码或者审查的任务，程序员则用他们熟悉的CLI或者IDE进行编码，上下文依然不丢失。\n\n之前我们还在思考agent未来面对的交互入口是不是非常多，穿戴设备、手机、电脑桌面、命令行，怎么统一指挥一个或者多个agent干活且不丢失上下文。ACP是个解法。\n\n我觉得这是能力层面最后一块协议拼图\n接下来要看支付了\n人与agent: ACP\nAgent与agent: A2A\nAgent与函数：MCP"
   },
   {
     "id": 10,
