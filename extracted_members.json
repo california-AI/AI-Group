@@ -5750,5 +5750,45 @@
     "ai_profile": "",
     "invited_by": "Jeff",
     "order": 205
+  },
+  {
+    "name": "Ben",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "深圳",
+    "tags": [
+      {
+        "category": "industry",
+        "label": "AI/人工智能"
+      },
+      {
+        "category": "career",
+        "label": "创业者"
+      },
+      {
+        "category": "company",
+        "label": "benx.ai"
+      },
+      {
+        "category": "city",
+        "label": "深圳"
+      },
+      {
+        "category": "skill",
+        "label": "Vibecoding"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 223,
+    "contact": "",
+    "intro": "背景：前字节PM，现在做AI工具网站 benx.ai\n擅长：Vibecoding、自媒体、社群\n关注：Agent\n一句话：在AI时代淘金\n运营公众号「AI工具进化论」",
+    "time": "2026-03-20",
+    "ai_profile": "",
+    "invited_by": "ich liebe dich",
+    "order": 206
   }
 ]
