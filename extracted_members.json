@@ -5636,20 +5636,56 @@
   },
   {
     "name": "Yun",
-    "intro": "尚未自我介绍",
+    "intro": "",
     "bio": "",
     "background": "",
     "skills": [],
-    "city": "",
+    "city": "洛杉矶",
     "tags": [
       {
         "category": "city",
-        "label": "其它"
+        "label": "洛杉矶"
+      },
+      {
+        "category": "career",
+        "label": "全栈开发"
+      },
+      {
+        "category": "industry",
+        "label": "游戏"
+      },
+      {
+        "category": "industry",
+        "label": "医疗器械"
+      },
+      {
+        "category": "industry",
+        "label": "金融"
+      },
+      {
+        "category": "industry",
+        "label": "电商"
+      },
+      {
+        "category": "skill",
+        "label": "SEO"
+      },
+      {
+        "category": "skill",
+        "label": "CRM"
+      },
+      {
+        "category": "interest",
+        "label": "Vibe Coding"
+      },
+      {
+        "category": "interest",
+        "label": "AI测试"
       }
     ],
     "id": 225,
     "contact": "",
-    "ai_profile": "",
+    "ai_profile": "**详细背景**：十年游戏+十年全栈开发经验，背景涵盖游戏、医疗器械、金融、电信、电商行业\n**擅长**：为小商户整合系统、SEO、CRM运营维护\n**目标**：AI辅助测试，为Vibe Coding兜底\n**坐标**：尔湾，洛杉矶",
     "order": 197,
     "invited_by": ""
   },
