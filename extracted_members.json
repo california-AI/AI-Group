@@ -5710,22 +5710,38 @@
   },
   {
     "name": "刘铁锋",
-    "intro": "尚未自我介绍",
+    "intro": "",
     "bio": "",
     "background": "",
     "skills": [],
     "city": "",
     "tags": [
       {
-        "category": "city",
-        "label": "其它"
+        "category": "career",
+        "label": "连续创业者"
+      },
+      {
+        "category": "industry",
+        "label": "AI+金融"
+      },
+      {
+        "category": "industry",
+        "label": "投资/LP"
+      },
+      {
+        "category": "skill",
+        "label": "OpenClaw"
+      },
+      {
+        "category": "interest",
+        "label": "AI创业"
       }
     ],
     "id": 198,
     "contact": "",
-    "ai_profile": "",
+    "ai_profile": "**详细背景**：连续创业者，创业两次。09年移动互联网创业，卖给了上市公司。19年创业AI+金融，给香港证券交易所及中金、中投、人保、太保、招商银行等提供过AI金融服务\n**近期动态**：刚写完一本用OpenClaw构建企业内部7×24小时产线的书\n**投资**：Race Capital的LP，看美国的AI项目，和美国合伙人做了个号介绍中国的投融资给美国市场\n**链接**：https://thecranechina.substack.com/",
     "order": 199,
-    "invited_by": ""
+    "invited_by": "Patrick Liu"
   },
   {
     "name": "SUV",
