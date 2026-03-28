@@ -5919,7 +5919,7 @@
   },
   {
     "name": "MikeCap",
-    "intro": "尚未自我介绍",
+    "intro": "",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5928,11 +5928,35 @@
       {
         "category": "city",
         "label": "北京"
+      },
+      {
+        "category": "career",
+        "label": "创始人"
+      },
+      {
+        "category": "company",
+        "label": "聚鲸"
+      },
+      {
+        "category": "industry",
+        "label": "AI会议"
+      },
+      {
+        "category": "industry",
+        "label": "AI教育"
+      },
+      {
+        "category": "industry",
+        "label": "FA/并购"
+      },
+      {
+        "category": "industry",
+        "label": "AI To B"
       }
     ],
     "id": 237,
     "contact": "",
-    "ai_profile": "",
+    "ai_profile": "**详细背景**：聚鲸创始人\n**业务方向**：\n• 聚鲸会议：赢在OpenClaw中国行（已完成深圳、杭州、上海、北京四站）、鲸鱼大会（四五月份杭州千人大会）\n• 聚鲸教育：在清华、北大开班，面向高管培训\n• 聚鲸FA：合作多家AI产业并购的上市公司\n• 聚鲸智能：AI To B解决方案提供商",
     "order": 210,
     "invited_by": "Patrick Liu"
   },
