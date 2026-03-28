@@ -4998,44 +4998,8 @@
     "order": 168
   },
   {
-    "name": "Hongyi Liu",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 187,
-    "contact": "",
-    "ai_profile": "",
-    "order": 169
-  },
-  {
-    "name": "Ron",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 188,
-    "contact": "",
-    "ai_profile": "",
-    "order": 170
-  },
-  {
     "name": "Mike H",
-    "intro": "尚未自我介绍",
+    "intro": "昵称: Mike\n坐标: 北京/SF\n背景: 优格资本合伙人/AI项目创始人\n擅长: cs/pm\n关注: 游戏/AI\n一句话: 正在打造AI native prediction market",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5043,13 +5007,37 @@
     "tags": [
       {
         "category": "city",
-        "label": "其它"
+        "label": "SF"
+      },
+      {
+        "category": "city",
+        "label": "北京"
+      },
+      {
+        "category": "career",
+        "label": "投资人"
+      },
+      {
+        "category": "career",
+        "label": "创始人"
+      },
+      {
+        "category": "industry",
+        "label": "AI/人工智能"
+      },
+      {
+        "category": "interest",
+        "label": "游戏"
+      },
+      {
+        "category": "skill",
+        "label": "PM"
       }
     ],
     "id": 189,
     "contact": "",
     "ai_profile": "",
-    "order": 171
+    "order": 169
   },
   {
     "name": "Victor",
@@ -5067,7 +5055,7 @@
     "id": 190,
     "contact": "",
     "ai_profile": "",
-    "order": 172
+    "order": 170
   },
   {
     "name": "曾昱 Dennis",
@@ -5094,7 +5082,7 @@
     "intro": "微信名：曾旻 Dennis WUI.AI\n详细背景：AI创业者，WUI.AI创始人兼CEO，前TikTok PM Lead，Yale MBA + 北大计算机，主要做AI产品和内容平台\n擅长：AI产品设计、Agent系统和内容生产流水线设计，长期做Creator Economy和AI工具\n关注：Multi-Agent系统、OpenClaw自动化、AI Native创作工具、AI内容生产流水线\n一句话：正在做AI Native视频创作系统WUI.AI，也在探索OpenClaw + Agent自动化内容生产，希望认识一起落地AI idea的朋友",
     "time": "2026-03-12",
     "ai_profile": "",
-    "order": 173
+    "order": 171
   },
   {
     "name": "Phil",
@@ -5112,25 +5100,7 @@
     "id": 191,
     "contact": "",
     "ai_profile": "",
-    "order": 174
-  },
-  {
-    "name": "Red",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 192,
-    "contact": "",
-    "ai_profile": "",
-    "order": 175
+    "order": 172
   },
   {
     "name": "Young",
@@ -5157,7 +5127,7 @@
     "intro": "详细背景：ZK+AI Researcher、InteractiveBench核心贡献者\n关注：Agent和AI Infra能力与安全边界",
     "time": "2026-03-12",
     "ai_profile": "",
-    "order": 176
+    "order": 173
   },
   {
     "name": "Adrian Liu（柳奇）",
@@ -5184,7 +5154,7 @@
     "intro": "详细背景：深圳/华为，技术演进和科技外交\n关注：AI Agent/具身智能/计算架构",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 177
+    "order": 174
   },
   {
     "name": "小小",
@@ -5202,7 +5172,7 @@
     "id": 193,
     "contact": "",
     "ai_profile": "",
-    "order": 178
+    "order": 175
   },
   {
     "name": "Louis",
@@ -5220,7 +5190,7 @@
     "id": 194,
     "contact": "",
     "ai_profile": "",
-    "order": 179
+    "order": 176
   },
   {
     "name": "Nightwish（李岩）",
@@ -5251,25 +5221,7 @@
     "intro": "详细背景：游戏、教育、军工行业，专注元宇宙虚拟仿真、数字孪生行业\n擅长：AI+仿真产品和应用的研发\n关注：AI具身智能、仿真训练\n一句话：寻找AI和具身智能类资源再往应用层面落地",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 180
-  },
-  {
-    "name": "Sandy",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 196,
-    "contact": "",
-    "ai_profile": "",
-    "order": 181
+    "order": 177
   },
   {
     "name": "Chenyu Zhang",
@@ -5287,25 +5239,7 @@
     "id": 197,
     "contact": "",
     "ai_profile": "",
-    "order": 182
-  },
-  {
-    "name": "刘铁锋",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 198,
-    "contact": "",
-    "ai_profile": "",
-    "order": 183
+    "order": 178
   },
   {
     "name": "Hongyu（泓宇）",
@@ -5336,7 +5270,7 @@
     "intro": "详细背景：Crypto行业5年（交易所上市组、VC），之前在央视新闻中心做内容创作，从0到1做了一个百万粉时政类账号\n擅长：内容创作、Crypto\n关注：OpenClaw、Claude Code、Vibe Coding\n一句话：文科生也能接触到产品开发的流程，希望后面能做出些好玩的产品",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 184
+    "order": 179
   },
   {
     "name": "jangitpoon（潘振杰）",
@@ -5363,25 +5297,7 @@
     "intro": "详细背景：元宇宙/AI Agent/算力供应/国产算力建设\n擅长：AI Agent开发，算力运营\n关注：AI应用场景落地\n一句话：通过AI找算力供应，算力建设，系统应用场景交付",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 185
-  },
-  {
-    "name": "H.",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 200,
-    "contact": "",
-    "ai_profile": "",
-    "order": 186
+    "order": 180
   },
   {
     "name": "楷瑞",
@@ -5399,7 +5315,7 @@
     "id": 201,
     "contact": "",
     "ai_profile": "",
-    "order": 187
+    "order": 181
   },
   {
     "name": "Jason",
@@ -5417,7 +5333,7 @@
     "id": 202,
     "contact": "",
     "ai_profile": "",
-    "order": 188
+    "order": 182
   },
   {
     "name": "刘旌",
@@ -5435,43 +5351,7 @@
     "id": 203,
     "contact": "",
     "ai_profile": "",
-    "order": 189
-  },
-  {
-    "name": "Jeremy",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 204,
-    "contact": "",
-    "ai_profile": "",
-    "order": 190
-  },
-  {
-    "name": "赵韬博-Jacob",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 206,
-    "contact": "",
-    "ai_profile": "",
-    "order": 191
+    "order": 183
   },
   {
     "name": "J",
@@ -5489,7 +5369,7 @@
     "id": 208,
     "contact": "",
     "ai_profile": "",
-    "order": 192
+    "order": 184
   },
   {
     "name": "reegan",
@@ -5507,7 +5387,7 @@
     "id": 209,
     "contact": "",
     "ai_profile": "",
-    "order": 193
+    "order": 185
   },
   {
     "name": "aix",
@@ -5525,7 +5405,7 @@
     "id": 210,
     "contact": "",
     "ai_profile": "",
-    "order": 194
+    "order": 186
   },
   {
     "name": "David Shao",
@@ -5543,7 +5423,7 @@
     "id": 211,
     "contact": "",
     "ai_profile": "",
-    "order": 195
+    "order": 187
   },
   {
     "name": "李嘉",
@@ -5561,25 +5441,7 @@
     "id": 212,
     "contact": "",
     "ai_profile": "",
-    "order": 196
-  },
-  {
-    "name": "侯正鹏",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 213,
-    "contact": "",
-    "ai_profile": "",
-    "order": 197
+    "order": 188
   },
   {
     "name": "Shirley",
@@ -5597,25 +5459,7 @@
     "id": 215,
     "contact": "",
     "ai_profile": "",
-    "order": 198
-  },
-  {
-    "name": "GZ",
-    "intro": "尚未自我介绍",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "id": 216,
-    "contact": "",
-    "ai_profile": "",
-    "order": 199
+    "order": 189
   },
   {
     "name": "Der wulfeit Nicht",
@@ -5649,7 +5493,7 @@
     "id": 217,
     "contact": "",
     "ai_profile": "",
-    "order": 200
+    "order": 190
   },
   {
     "name": "A GritPeriod（二号）",
@@ -5668,7 +5512,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 201,
+    "order": 191,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5688,7 +5532,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 202,
+    "order": 192,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5708,28 +5552,8 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 203,
+    "order": 193,
     "invited_by": "Patrick Liu"
-  },
-  {
-    "name": "Andrea 安德",
-    "bio": "",
-    "background": "",
-    "skills": [],
-    "city": "北京",
-    "tags": [
-      {
-        "category": "city",
-        "label": "北京"
-      }
-    ],
-    "id": 221,
-    "contact": "",
-    "intro": "尚未自我介绍",
-    "time": "2026-03-17",
-    "ai_profile": "",
-    "order": 204,
-    "invited_by": "氪莱Sheng (范策Sheng)"
   },
   {
     "name": "Livia Wang-悦",
@@ -5749,7 +5573,7 @@
     "time": "2026-03-18",
     "ai_profile": "",
     "invited_by": "Jeff",
-    "order": 205
+    "order": 194
   },
   {
     "name": "Ben",
@@ -5789,6 +5613,348 @@
     "time": "2026-03-20",
     "ai_profile": "",
     "invited_by": "ich liebe dich",
-    "order": 206
+    "order": 195
+  },
+  {
+    "name": "James",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 224,
+    "contact": "",
+    "ai_profile": "",
+    "order": 196,
+    "invited_by": ""
+  },
+  {
+    "name": "Yun",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 225,
+    "contact": "",
+    "ai_profile": "",
+    "order": 197,
+    "invited_by": ""
+  },
+  {
+    "name": "ArvinChew",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "深圳",
+    "tags": [
+      {
+        "category": "city",
+        "label": "深圳"
+      }
+    ],
+    "id": 226,
+    "contact": "",
+    "ai_profile": "",
+    "order": 198,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "刘铁锋",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 198,
+    "contact": "",
+    "ai_profile": "",
+    "order": 199,
+    "invited_by": ""
+  },
+  {
+    "name": "SUV",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 227,
+    "contact": "",
+    "ai_profile": "",
+    "order": 200,
+    "invited_by": ""
+  },
+  {
+    "name": "Kyle",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 228,
+    "contact": "",
+    "ai_profile": "",
+    "order": 201,
+    "invited_by": ""
+  },
+  {
+    "name": "Ebo",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 229,
+    "contact": "",
+    "ai_profile": "",
+    "order": 202,
+    "invited_by": ""
+  },
+  {
+    "name": "Anray",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 230,
+    "contact": "",
+    "ai_profile": "",
+    "order": 203,
+    "invited_by": ""
+  },
+  {
+    "name": "吴俊东 Frank",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "北京",
+    "tags": [
+      {
+        "category": "city",
+        "label": "北京"
+      }
+    ],
+    "id": 231,
+    "contact": "",
+    "ai_profile": "",
+    "order": 204,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "吴同学",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 232,
+    "contact": "",
+    "ai_profile": "",
+    "order": 205,
+    "invited_by": ""
+  },
+  {
+    "name": "文祥",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 233,
+    "contact": "",
+    "ai_profile": "",
+    "order": 206,
+    "invited_by": ""
+  },
+  {
+    "name": "易依鑫",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 234,
+    "contact": "",
+    "ai_profile": "",
+    "order": 207,
+    "invited_by": ""
+  },
+  {
+    "name": "Jiacheng_Andy",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 235,
+    "contact": "",
+    "ai_profile": "",
+    "order": 208,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Zima",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 236,
+    "contact": "",
+    "ai_profile": "",
+    "order": 209,
+    "invited_by": ""
+  },
+  {
+    "name": "MikeCap",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "北京",
+    "tags": [
+      {
+        "category": "city",
+        "label": "北京"
+      }
+    ],
+    "id": 237,
+    "contact": "",
+    "ai_profile": "",
+    "order": 210,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "周劲光",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 238,
+    "contact": "",
+    "ai_profile": "",
+    "order": 211,
+    "invited_by": ""
+  },
+  {
+    "name": "Charlie (lycqcllcyeleszlgy)",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "New York",
+    "tags": [
+      {
+        "category": "city",
+        "label": "New York"
+      }
+    ],
+    "id": 239,
+    "contact": "",
+    "ai_profile": "",
+    "order": 212,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "沐寒",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 240,
+    "contact": "",
+    "ai_profile": "",
+    "order": 213,
+    "invited_by": ""
   }
 ]
