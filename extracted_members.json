@@ -6032,5 +6032,81 @@
     "ai_profile": "",
     "order": 213,
     "invited_by": ""
+  },
+  {
+    "name": "宋壬初 - Epsilla (YC S23)",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 241,
+    "contact": "",
+    "ai_profile": "",
+    "order": 214,
+    "invited_by": "Weimo 刘未未 PuppyGraph"
+  },
+  {
+    "name": "ade",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 242,
+    "contact": "",
+    "ai_profile": "",
+    "order": 215,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "wei li",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "美国"
+      }
+    ],
+    "id": 243,
+    "contact": "",
+    "ai_profile": "",
+    "order": 216,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Ethan Li Aibrary & botlearn.ai",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "Palo Alto",
+    "tags": [
+      {
+        "category": "city",
+        "label": "湾区"
+      }
+    ],
+    "id": 244,
+    "contact": "",
+    "ai_profile": "",
+    "order": 217,
+    "invited_by": "吴俊东 Frank-Botlearn.ai"
   }
 ]
