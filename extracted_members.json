@@ -6020,11 +6020,11 @@
     "bio": "",
     "background": "",
     "skills": [],
-    "city": "",
+    "city": "新加坡",
     "tags": [
       {
         "category": "city",
-        "label": "其它"
+        "label": "新加坡"
       }
     ],
     "id": 240,
@@ -6108,5 +6108,497 @@
     "ai_profile": "",
     "order": 217,
     "invited_by": "吴俊东 Frank-Botlearn.ai"
+  },
+  {
+    "name": "木铎姐姐 (刘凤芹)",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 245,
+    "contact": "",
+    "ai_profile": "",
+    "order": 218,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "洪刚",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 246,
+    "contact": "",
+    "ai_profile": "",
+    "order": 219,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "yq",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 247,
+    "contact": "",
+    "ai_profile": "",
+    "order": 220,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "李成喆",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "北京",
+    "tags": [
+      {
+        "category": "city",
+        "label": "北京"
+      },
+      {
+        "category": "career",
+        "label": "CIO"
+      },
+      {
+        "category": "industry",
+        "label": "企业数字化"
+      },
+      {
+        "category": "industry",
+        "label": "农牧食品"
+      },
+      {
+        "category": "interest",
+        "label": "AI行业应用"
+      }
+    ],
+    "id": 248,
+    "contact": "",
+    "ai_profile": "**昵称**：leecz\n**坐标**：北京\n**背景**：20年企业数字化-农牧食品上市公司CIO/Cloud Gaming创业经历/EE背景/Wolfram enthusiast\n**擅长**：计算机体系架构/开放场景探索与问题分析\n**关注**：AI行业应用/自动化\n**一句话**：希望和各位朋友多沟通，互通有无，共同进步～",
+    "order": 221,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "施麒",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 249,
+    "contact": "",
+    "ai_profile": "",
+    "order": 222,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "曹峰",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 250,
+    "contact": "",
+    "ai_profile": "",
+    "order": 223,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Mr.z",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 251,
+    "contact": "",
+    "ai_profile": "",
+    "order": 224,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "ALLInCreateAmind.agi.top 张德祥",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 252,
+    "contact": "",
+    "ai_profile": "",
+    "order": 225,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "混沌有形",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "深圳",
+    "tags": [
+      {
+        "category": "city",
+        "label": "深圳"
+      },
+      {
+        "category": "industry",
+        "label": "房产"
+      },
+      {
+        "category": "interest",
+        "label": "知识管理"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 253,
+    "contact": "",
+    "ai_profile": "**昵称**：混沌有形\n**坐标**：深圳\n**背景**：二手房出租管理\n**擅长**：个人成长，知识管理\n**关注**：AI，Agent\n**一句话**：想和各位大佬学习AI方面的知识",
+    "order": 226,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Royce",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "深圳",
+    "tags": [
+      {
+        "category": "city",
+        "label": "深圳"
+      },
+      {
+        "category": "industry",
+        "label": "金融"
+      },
+      {
+        "category": "company",
+        "label": "微众银行"
+      },
+      {
+        "category": "skill",
+        "label": "金融产品设计"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 254,
+    "contact": "",
+    "ai_profile": "**昵称**：Royce\n**坐标**：深圳\n**背景**：金融/微众银行/国际发展部\n**擅长**：金融产品研究设计\n**关注**：AI agent\n**一句话**：向大家学习AI共存时期国际业务机会和落地场景",
+    "order": 227,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "润海",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "北京",
+    "tags": [
+      {
+        "category": "city",
+        "label": "北京"
+      },
+      {
+        "category": "industry",
+        "label": "医疗"
+      },
+      {
+        "category": "skill",
+        "label": "精神营养学"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 255,
+    "contact": "",
+    "ai_profile": "**昵称**：佳泽\n**坐标**：北京\n**背景**：医疗/精神营养学专家\n**擅长**：医疗机构+精准营养落地\n**关注**：AI Agent\n**一句话**：想与大佬们探讨AI Agent医疗/家庭应用落地场景及AI落地安全保障方案。",
+    "order": 228,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Haeron X",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "上海",
+    "tags": [
+      {
+        "category": "city",
+        "label": "上海"
+      },
+      {
+        "category": "company",
+        "label": "微软"
+      },
+      {
+        "category": "career",
+        "label": "业务负责人"
+      },
+      {
+        "category": "skill",
+        "label": "OpenClaw"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agents"
+      }
+    ],
+    "id": 256,
+    "contact": "",
+    "ai_profile": "**昵称**：Haeron X\n**坐标**：上海\n**背景**：微软AI平台GPT，Claude，Image等Token和Agent市场业务负责人，OpenClaw Contributor\n**擅长**：Building, thinking and ship reality\n**关注**：the frontier of AI Agents\n**一句话**：Connect to AGI Builders, not talker",
+    "order": 229,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "♡ Kevin Xu",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "深圳",
+    "tags": [
+      {
+        "category": "city",
+        "label": "深圳"
+      },
+      {
+        "category": "industry",
+        "label": "半导体"
+      },
+      {
+        "category": "skill",
+        "label": "端侧AI"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 257,
+    "contact": "",
+    "ai_profile": "**昵称**：Kevin.Xu\n**坐标**：深圳\n**背景**：半导体/技术专家\n**擅长**：端侧AI Agent应用落地\n**关注**：AI Agent\n**一句话**：想与大佬们探讨AI Agent应用落地场景及AI落地安全保障方案。",
+    "order": 230,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Yewei",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "长沙",
+    "tags": [
+      {
+        "category": "city",
+        "label": "长沙"
+      },
+      {
+        "category": "industry",
+        "label": "金融"
+      },
+      {
+        "category": "skill",
+        "label": "期货衍生品"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 258,
+    "contact": "",
+    "ai_profile": "**昵称**：Yewei\n**坐标**：长沙\n**背景**：金融/通信/教育\n**擅长**：商品期货期权与金融衍生品研究\n**关注**：AI agent\n**一句话**：探讨AI发展动向与人的价值",
+    "order": 231,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "hehe",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "北京",
+    "tags": [
+      {
+        "category": "city",
+        "label": "北京"
+      },
+      {
+        "category": "industry",
+        "label": "医疗"
+      },
+      {
+        "category": "skill",
+        "label": "全栈"
+      },
+      {
+        "category": "interest",
+        "label": "院内感染控制"
+      },
+      {
+        "category": "interest",
+        "label": "AI Agent"
+      }
+    ],
+    "id": 259,
+    "contact": "",
+    "ai_profile": "**昵称**：hehe\n**坐标**：北京\n**背景**：医疗/院内感染控制/教育\n**擅长**：全栈（垃圾代码整理）/院感/复杂性科学（一定了解）\n**关注**：AI agent\n**一句话**：之前做院内感染agent/目前在用agent做垃圾代码整理/对个体学习agent场景有兴趣。",
+    "order": 232,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Yuhao",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 260,
+    "contact": "",
+    "ai_profile": "",
+    "order": 233,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "陈晨",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 261,
+    "contact": "",
+    "ai_profile": "",
+    "order": 234,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "乱武",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 262,
+    "contact": "",
+    "ai_profile": "",
+    "order": 235,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "果",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 263,
+    "contact": "",
+    "ai_profile": "",
+    "order": 236,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "Kayden",
+    "intro": "尚未自我介绍",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "其它"
+      }
+    ],
+    "id": 264,
+    "contact": "",
+    "ai_profile": "",
+    "order": 237,
+    "invited_by": "Patrick Liu"
   }
 ]
