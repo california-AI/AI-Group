@@ -505,39 +505,6 @@ textarea.form-input{min-height:100px;resize:vertical;line-height:1.6}
 .wall-stat{background:var(--card);border:1px solid var(--border);border-radius:var(--radius2);padding:10px 16px;font-size:.8rem;color:var(--text3)}
 .wall-stat span{color:var(--orange);font-weight:700;font-size:1rem}
 
-/* ==================== MODULE 4: 🏆 贡献排行榜 ==================== */
-.leaderboard-toolbar{display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap;align-items:center}
-.lb-dim-btn{padding:7px 16px;border-radius:var(--radius2);font-size:.8rem;cursor:pointer;transition:all .2s;border:1px solid var(--border);background:var(--bg3);color:var(--text2)}
-.lb-dim-btn:hover{border-color:var(--teal);color:var(--text)}
-.lb-dim-btn.active{background:rgba(0,212,255,.12);color:var(--teal);border-color:rgba(0,212,255,.4)}
-.lb-podium{display:flex;justify-content:center;align-items:flex-end;gap:20px;margin-bottom:32px;padding:20px 0 0}
-.lb-podium-item{display:flex;flex-direction:column;align-items:center;gap:8px;cursor:pointer;transition:all .2s}
-.lb-podium-item:hover{transform:translateY(-4px)}
-.lb-podium-avatar{border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;color:#fff;position:relative}
-.lb-podium-avatar .crown{position:absolute;top:-20px;font-size:1.3rem}
-.lb-podium-rank{font-size:1.6rem}
-.lb-podium-name{font-size:.85rem;font-weight:600;color:var(--text);text-align:center;max-width:80px}
-.lb-podium-score{font-size:.75rem;color:var(--text3)}
-.lb-podium-bar{border-radius:8px 8px 0 0;width:80px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:8px;font-size:.8rem;font-weight:700;color:#fff}
-.lb-list{display:flex;flex-direction:column;gap:8px}
-.lb-row{display:flex;align-items:center;gap:14px;padding:14px 18px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);transition:all .2s;cursor:pointer}
-.lb-row:hover{border-color:rgba(0,212,255,.3);transform:translateX(4px)}
-.lb-row.top3{border-color:rgba(255,159,67,.2);background:rgba(255,159,67,.03)}
-.lb-rank-num{width:28px;text-align:center;font-size:.9rem;font-weight:700;color:var(--text3);flex-shrink:0}
-.lb-rank-num.gold{color:#ffd700}
-.lb-rank-num.silver{color:#c0c0c0}
-.lb-rank-num.bronze{color:#cd7f32}
-.lb-row-avatar{width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1rem;font-weight:700;color:#fff;flex-shrink:0}
-.lb-row-info{flex:1;min-width:0}
-.lb-row-name{font-size:.9rem;font-weight:600;color:var(--text)}
-.lb-row-sub{font-size:.75rem;color:var(--text3);margin-top:2px}
-.lb-row-badges{display:flex;gap:4px;margin-top:4px;flex-wrap:wrap}
-.lb-badge{padding:2px 8px;border-radius:8px;font-size:.65rem;background:rgba(0,212,255,.1);color:var(--teal)}
-.lb-score-bar{flex:1;max-width:180px}
-.lb-score-track{height:8px;background:var(--bg3);border-radius:4px;overflow:hidden}
-.lb-score-fill{height:100%;border-radius:4px;transition:width .8s ease}
-.lb-score-val{font-size:.8rem;font-weight:700;color:var(--teal);text-align:right;margin-top:3px}
-
 /* ==================== MODULE 5: 🔍 技能撮合 ==================== */
 .skill-match-layout{display:grid;grid-template-columns:1fr 1fr;gap:20px}
 .skill-panel{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:24px}
@@ -613,7 +580,6 @@ textarea.form-input{min-height:100px;resize:vertical;line-height:1.6}
     <button class="nav-tab" data-page="graph">🌐 关系图谱</button>
     <button class="nav-tab" data-page="match">🤝 智能匹配</button>
     <button class="nav-tab" data-page="wall">📢 活动墙</button>
-    <button class="nav-tab" data-page="leaderboard">🏆 排行榜</button>
     <button class="nav-tab" data-page="skillmatch">🔍 技能撮合</button>
   </div>
   <div class="nav-right">
@@ -847,20 +813,6 @@ textarea.form-input{min-height:100px;resize:vertical;line-height:1.6}
   </div>
   <div class="wall-cat-filters" id="wallCatFilters"></div>
   <div id="wallContainer"></div>
-</div>
-
-<!-- 🏆 贡献排行榜 Page -->
-<div class="page" id="page-leaderboard" style="max-width:1400px;margin:0 auto;padding:24px">
-  <div class="leaderboard-toolbar">
-    <span style="font-size:.85rem;color:var(--text3);margin-right:4px">排名维度：</span>
-    <button class="lb-dim-btn active" onclick="setLbDim('overall',this)">综合贡献</button>
-    <button class="lb-dim-btn" onclick="setLbDim('products',this)">产品数量</button>
-    <button class="lb-dim-btn" onclick="setLbDim('completeness',this)">档案完整度</button>
-    <button class="lb-dim-btn" onclick="setLbDim('activity',this)">活动墙发帖</button>
-    <button class="lb-dim-btn" onclick="setLbDim('likes',this)">获赞总数</button>
-  </div>
-  <div class="lb-podium" id="lbPodium"></div>
-  <div class="lb-list" id="lbList"></div>
 </div>
 
 <!-- 🔍 技能撮合 Page -->
@@ -2902,83 +2854,6 @@ function saveWallPost() {
   toast('发布成功 🎉','success');
 }
 
-// ==================== 🏆 贡献排行榜 MODULE ====================
-let lbDim = 'overall';
-
-function setLbDim(dim, el) {
-  lbDim = dim;
-  document.querySelectorAll('.lb-dim-btn').forEach(b=>b.classList.remove('active'));
-  if (el) el.classList.add('active');
-  renderLeaderboard();
-}
-
-function calcScore(m, dim) {
-  const myProducts = products.filter(p=>p.founderId===m.id||p.founderName===m.name);
-  const myPosts = wallPosts.filter(p=>p.authorId===m.id||p.authorName===m.name);
-  const totalLikes = myProducts.reduce((s,p)=>s+(p.likes||0),0) + myPosts.reduce((s,p)=>s+(p.likes||0),0);
-  const completeness = Math.min(100, ((m.intro?30:0) + (m.time?10:0) + Math.min(60,(m.tags||[]).length*10)));
-  switch(dim) {
-    case 'products': return myProducts.length * 20;
-    case 'completeness': return completeness;
-    case 'activity': return myPosts.length * 15;
-    case 'likes': return totalLikes;
-    default: return myProducts.length*15 + Math.round(completeness*0.3) + myPosts.length*10 + Math.round(totalLikes*0.5);
-  }
-}
-
-function renderLeaderboard() {
-  loadWallData();
-  const ranked = members.map(m => ({...m, score: calcScore(m, lbDim)}))
-    .sort((a,b)=>b.score-a.score);
-
-  // Podium (top 3)
-  const podiumColors = ['#ffd700','#c0c0c0','#cd7f32'];
-  const podiumHeights = [120,90,70];
-  const podiumOrder = [1,0,2]; // 2nd, 1st, 3rd
-  const top3 = ranked.slice(0,3);
-  document.getElementById('lbPodium').innerHTML = podiumOrder.map(i => {
-    const m = top3[i];
-    if (!m) return '';
-    const color = getColor(m.name);
-    return `<div class="lb-podium-item" onclick="showDetail('${m.id}')">
-      <div class="lb-podium-avatar" style="width:${i===0?60:50}px;height:${i===0?60:50}px;background:${color}">
-        ${i===0?'<span class="crown">👑</span>':''}
-        ${m.name[0]}
-      </div>
-      <div class="lb-podium-rank">${['🥇','🥈','🥉'][i]}</div>
-      <div class="lb-podium-name">${esc(m.name)}</div>
-      <div class="lb-podium-score">${m.score}分</div>
-      <div class="lb-podium-bar" style="height:${podiumHeights[i]}px;background:${podiumColors[i]}33;border:2px solid ${podiumColors[i]}">${m.score}</div>
-    </div>`;
-  }).join('');
-
-  // Full list
-  const maxScore = ranked[0]?.score || 1;
-  document.getElementById('lbList').innerHTML = ranked.map((m,i) => {
-    const rankClass = i===0?'gold':i===1?'silver':i===2?'bronze':'';
-    const myProducts = products.filter(p=>p.founderId===m.id||p.founderName===m.name);
-    const myPosts = wallPosts.filter(p=>p.authorId===m.id||p.authorName===m.name);
-    const badges = [
-      myProducts.length>0?`🚀 ${myProducts.length}个产品`:'',
-      myPosts.length>0?`📢 ${myPosts.length}条发帖`:'',
-      (m.tags||[]).length>=5?'🏷️ 标签丰富':''
-    ].filter(Boolean);
-    return `<div class="lb-row${i<3?' top3':''}" onclick="showDetail('${m.id}')">
-      <div class="lb-rank-num ${rankClass}">${i<3?['🥇','🥈','🥉'][i]:i+1}</div>
-      <div class="lb-row-avatar" style="background:${getColor(m.name)}">${m.name[0]}</div>
-      <div class="lb-row-info">
-        <div class="lb-row-name">${esc(m.name)}</div>
-        <div class="lb-row-sub">${(m.tags||[]).slice(0,2).map(t=>t.label).join(' · ')||'暂无标签'}</div>
-        ${badges.length?`<div class="lb-row-badges">${badges.map(b=>`<span class="lb-badge">${b}</span>`).join('')}</div>`:''}
-      </div>
-      <div class="lb-score-bar">
-        <div class="lb-score-track"><div class="lb-score-fill" style="width:${(m.score/maxScore)*100}%;background:linear-gradient(90deg,var(--teal),var(--green))"></div></div>
-        <div class="lb-score-val">${m.score}分</div>
-      </div>
-    </div>`;
-  }).join('');
-}
-
 // ==================== 🔍 技能撮合 MODULE ====================
 const SKILL_QUICK_FALLBACK = ['AI/人工智能','AI Agent','OpenClaw','AI工具','创业者','金融投资','电商','教育','NLP','增长'];
 
@@ -3111,7 +2986,6 @@ function switchToPage(page) {
   if (page === 'graph') { setTimeout(initGraph, 100); }
   if (page === 'match') renderMatchPage();
   if (page === 'wall') renderWall();
-  if (page === 'leaderboard') { loadWallData(); renderLeaderboard(); }
   if (page === 'skillmatch') initSkillMatch();
 }
 
