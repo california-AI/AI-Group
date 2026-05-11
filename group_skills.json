@@ -95,5 +95,39 @@
     "fullText": "Harness Engineering 精选资料汇编\n\n0. LangChain:\n• Improving Deep Agents with Harness Engineering\nhttps://blog.langchain.com/improving-deep-agents-with-harness-engineering/\n• The Anatomy of an Agent Harness（3天前）\nhttps://blog.langchain.com/the-anatomy-of-an-agent-harness/\n\n1. Mitchell Hashimoto（HashiCorp/Terraform 创始人）:\nAI 使用进化之路，\"Engineer the Harness\" 是第5步\nhttps://mitchellh.com/writing/my-ai-adoption-journey\n\n2. OpenAI:\n5 名工程师，5 个月，零手写代码，交付 100 万行生产代码\nhttps://openai.com/index/harness-engineering\n\n3. Martin Fowler 分析:\nhttps://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html\n\n4. Can Bolük:\n只改 diff 格式，Grok 从 6.7% 跑到 68.3%\n验证：Google 看到结果后封了他帐号\nhttps://abit.ee/en/artificial-intelligence/hashline-ai-agents-cursor-aider-claude-code-oh-my-pi-diff-format-grok-gemini-benchmark-open-source-g-en",
     "category": "学习资料",
     "date": "2026-03-14"
+  },
+  {
+    "id": 12,
+    "sharer": "邓侃",
+    "topic": "Openclaw Architecture 01：Overview",
+    "description": "Openclaw Architecture 系列第一讲，讲解 Openclaw 内部系统架构，以及基于 Openclaw 的二次开发。",
+    "category": "课程资料",
+    "date": "2026-04-22",
+    "fullText": "Openclaw Architecture 系列课程第一讲。\n\n主题：Openclaw Overview\n\n内容：讲解 Openclaw 内部系统架构，以及基于 Openclaw 的二次开发。讲完理论课后，后续还有线下实践课，方便同学亲自动手、学以致用。",
+    "links": [
+      {
+        "label": "查看 PDF",
+        "url": "files/01_openclaw_overview.pdf"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "sharer": "邓侃",
+    "topic": "Openclaw Architecture 02：Channel",
+    "description": "Openclaw Architecture 系列第二讲，讲解 Matrix 即时通信技术原理，以及如何自主开发 Openclaw Channel。",
+    "category": "课程资料",
+    "date": "2026-04-29",
+    "fullText": "Openclaw Architecture 系列课程第二讲。\n\n主题：Openclaw Channel\n\n内容：讲解 Matrix 即时通信的技术原理，以及如何自主开发 Openclaw Channel。\n\n课程围绕 Openclaw + Crazyflie 无人机 + Unity 游戏，通过融合三者，模拟 Palantir 作战系统，实现线上线下融合、虚拟与现实融合的无人机和群对战游戏。\n\n这节内容不多，但较深，很多都是前沿技术。课程讲义和开源代码会陆续发布在 GitHub，供同学们做作业时参考。",
+    "links": [
+      {
+        "label": "查看 PDF",
+        "url": "files/02_openclaw_channel.pdf"
+      },
+      {
+        "label": "课程讲义",
+        "url": "https://pan.baidu.com/s/1EekEHVa2JW2z3_X2_pKc9Q?pwd=2026"
+      }
+    ]
   }
 ]
