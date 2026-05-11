@@ -1,6 +1,6 @@
 [
   {
-    "name": "Patrick Liu (刘勇)",
+    "name": "Patrick Liu",
     "bio": "",
     "background": "",
     "skills": [],
@@ -66,7 +66,7 @@
     "order": 2
   },
   {
-    "name": "黄铠",
+    "name": "黃铠",
     "bio": "",
     "background": "",
     "skills": [],
@@ -176,7 +176,7 @@
     "order": 6
   },
   {
-    "name": "何宇滔",
+    "name": "何宇滔 Yutao He",
     "bio": "",
     "background": "",
     "skills": [],
@@ -237,7 +237,7 @@
     "order": 9
   },
   {
-    "name": "FF YQ (杨永强)",
+    "name": "FF YQ",
     "bio": "",
     "background": "",
     "skills": [],
@@ -299,7 +299,7 @@
     "order": 11
   },
   {
-    "name": "高巍",
+    "name": "高巍 Wei Gao",
     "bio": "",
     "background": "",
     "skills": [],
@@ -337,7 +337,7 @@
     "order": 13
   },
   {
-    "name": "金汐 (Lisa)",
+    "name": "金汐（Lisa）",
     "bio": "",
     "background": "",
     "skills": [],
@@ -372,7 +372,7 @@
     "order": 14
   },
   {
-    "name": "Joseph (周自横)",
+    "name": "周自横 Joseph",
     "bio": "UCLA AI PhD在读",
     "background": "UCLA AI PhD学生，来自法国",
     "skills": [
@@ -526,7 +526,7 @@
     "order": 18
   },
   {
-    "name": "Medal (黄总)",
+    "name": "medal",
     "bio": "关注AI投资和创业",
     "background": "讨论AI创业生态",
     "skills": [
@@ -606,7 +606,7 @@
     "order": 20
   },
   {
-    "name": "天晴了 (Henry Yu)",
+    "name": "天晴了",
     "bio": "",
     "background": "",
     "skills": [],
@@ -641,7 +641,7 @@
     "order": 21
   },
   {
-    "name": "肖日东 (Trigg Shaw)",
+    "name": "Trigg-日东",
     "bio": "",
     "background": "",
     "skills": [],
@@ -849,7 +849,7 @@
     "order": 26
   },
   {
-    "name": "17@evomap.ai (张昊阳)",
+    "name": "17@evomap.ai",
     "bio": "前腾讯03年，EvoMap.ai创始人，做AI agent蜂群网络和进化图谱",
     "background": "03年老腾讯。创建evomap.ai，做agent蜂群网络，提出GEP协议共享审计skills。佛山有1500台Mac mini。开发evolver工具。被量子位报道。被南川称赞'前瞻性和行动力杠杠的'",
     "skills": [
@@ -890,7 +890,7 @@
     "order": 27
   },
   {
-    "name": "阎志涛 (闵志涛)",
+    "name": "阎志涛",
     "bio": "做内容营销AI Agents创业，ToB方向，n8n流程转skills",
     "background": "Patrick的老同学。帮企业构建one person内容市场团队。做了n8n流程转skills工具。新一代产品是Team agent形态。面向企业市场",
     "skills": [
@@ -974,7 +974,7 @@
     "order": 29
   },
   {
-    "name": "大铭",
+    "name": "大铭🦀🦞",
     "bio": "PicoClaw作者，嵌入式AI方向",
     "background": "可执行文件约24M，已在多个嵌入式设备上运行，研究低资源AI助手场景",
     "skills": [
@@ -1017,7 +1017,7 @@
     "order": 30
   },
   {
-    "name": "南川 Mark@lovstudio.ai",
+    "name": "南川 WhyMark",
     "bio": "lovstudio.ai运营者，龙虾时代人机协作六大范式研究者",
     "background": "运营lovstudio.ai。GitHub整理awesome-openclaw-usecases(30+案例)。在天际资本活动分享人机协作六大范式。创建tg群theclawhub。破解微信数据库。被称为'川总'",
     "skills": [
@@ -1066,7 +1066,7 @@
     "order": 31
   },
   {
-    "name": "Tianrun Yang (杨天润)",
+    "name": "Tianrun Yang",
     "bio": "投资人背景创业者，openclaw贡献者全球前三十，组织北京龙虾进化大会",
     "background": "给openclaw提交20多个PR。组织了OpenClaw Evolution Party龙虾进化大会(北京)。在做agent编排项目。做coding相关内容创作",
     "skills": [
@@ -1119,7 +1119,7 @@
     "order": 32
   },
   {
-    "name": "skyrim",
+    "name": "skyrim🎃",
     "bio": "群成员，请教OpenClaw访问反爬网页",
     "background": "请教如何让openclaw访问反爬网页",
     "skills": [],
@@ -1146,7 +1146,7 @@
     "order": 33
   },
   {
-    "name": "黄祯 Zohar e/acc",
+    "name": "黄祯 Zohar e\\acc",
     "bio": "00后，硬件上做OpenClaw，红杉分享受欢迎",
     "background": "南川介绍为'cc用的超级6，组织在红杉分享全场很受欢迎'。在硬件上做OpenClaw样机。e/acc加速主义者",
     "skills": [
@@ -1361,7 +1361,7 @@
     "order": 38
   },
   {
-    "name": "Aiden Chaoyang He (何朝阳)",
+    "name": "Aiden Chaoyang He",
     "bio": "连环创业者，USC PhD，Teamily AI创始人，Android 1.0核心贡献者",
     "background": "创立FedML(2022)→TensorOpera(2023)→AgentOpera(2024)→ChainOpera(2025)→Teamily.ai(2026)。USC教授背景，前腾讯员工，Forbes采访。Teamily AI是world's first human+AI social network，零安装开箱即用，群聊有人人记忆",
     "skills": [
@@ -1415,7 +1415,7 @@
     "order": 39
   },
   {
-    "name": "胡布斯 (胡显刚)",
+    "name": "胡布斯",
     "bio": "",
     "background": "",
     "skills": [],
@@ -1609,7 +1609,7 @@
     "order": 43
   },
   {
-    "name": "伍晓东 (Jason Wu)",
+    "name": "Jason 伍晓东",
     "bio": "",
     "background": "",
     "skills": [],
@@ -1765,7 +1765,7 @@
     "order": 47
   },
   {
-    "name": "王Alex",
+    "name": "玉Alex💤",
     "bio": "Display name: '王Alex'. Joined via Patrick Liu's QR code.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -1868,7 +1868,7 @@
     "order": 50
   },
   {
-    "name": "杨子超 e/acc",
+    "name": "杨子超 e／acc",
     "bio": "e/acc，预测龙虾取代90%白领，OPC+龙虾工厂成主流",
     "background": "在北京组织龙虾聚会报名250人。认为所有公司都会接龙虾，一人公司+龙虾工厂成主流形态",
     "skills": [
@@ -1942,7 +1942,7 @@
     "order": 52
   },
   {
-    "name": "B2B GTM 秦赢之光",
+    "name": "B2B GTM 自己洗碗最佛系的創業家",
     "bio": "Michael，围绕企业和商业自动化的SaaS and AI。多年企业SaaS和ML/AI管理经验。在fintech和sales tech也连续创业。",
     "background": "Enterprise SaaS and AI automation. Serial entrepreneur in fintech and sales tech. Full display name: 'B2B 域名 算力 支付 合规 安全'.",
     "skills": [],
@@ -2004,63 +2004,7 @@
     "order": 54
   },
   {
-    "name": "TianPan.co",
-    "bio": "beancount.io/blockeden.xyz cofounder，每月2个$200 claude subscription",
-    "background": "beancount.io和blockeden.xyz的cofounder，每月使用两个$200 claude subscription，主要用于产品开发、PM、marketing和定时任务",
-    "skills": [
-      "全栈开发",
-      "产品开发",
-      "marketing",
-      "SEO"
-    ],
-    "city": "",
-    "tags": [
-      {
-        "category": "industry",
-        "label": "AI/人工智能"
-      },
-      {
-        "category": "career",
-        "label": "产品经理"
-      },
-      {
-        "category": "career",
-        "label": "设计师"
-      },
-      {
-        "category": "career",
-        "label": "工程师"
-      },
-      {
-        "category": "career",
-        "label": "创业者"
-      },
-      {
-        "category": "city",
-        "label": "洛杉矶"
-      },
-      {
-        "category": "skill",
-        "label": "编程"
-      },
-      {
-        "category": "skill",
-        "label": "设计"
-      },
-      {
-        "category": "skill",
-        "label": "AI工具"
-      }
-    ],
-    "id": 70,
-    "contact": "",
-    "intro": "beancount.io/blockeden.xyz cofounder，每月2个$200 claude subscription。beancount.io和blockeden.xyz的cofounder，每月使用两个$200 claude subscription，主要用于产品开发、PM、marketing和定时任务",
-    "time": "2026-03-08",
-    "ai_profile": "**详细背景**：beancount.io/blockeden.xyz cofounder，每月2个$200 claude subscription。beancount.io和blockeden.xyz的cofounder，每月使用两个$200 claude subscription，主要用于产品开发、PM、marketing和定时任务\n\n**资源/擅长**：全栈开发、产品开发、marketing、SEO\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 55
-  },
-  {
-    "name": "荃",
+    "name": "Katlyn-Dreame",
     "bio": "Katlyn Yuan，前美资投行背景，两段AI大厂经历，现在追觅(Dreame)做AI硬件孵化及投资。",
     "background": "Former US investment bank background, two stints at major AI companies. Now at Dreame doing AI hardware incubation and investment. Connected to DreameClaw initiative.",
     "skills": [],
@@ -2076,10 +2020,10 @@
     "intro": "Katlyn Yuan，前美资投行背景，两段AI大厂经历，现在追觅(Dreame)做AI硬件孵化及投资。。Former US investment bank background, two stints at major AI companies. Now at Dreame doing AI hardware incubation and investment. Connected to DreameClaw initiative.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Katlyn Yuan，前美资投行背景，两段AI大厂经历，现在追觅(Dreame)做AI硬件孵化及投资。。Former US investment bank background, two stints at major AI companies. Now at Dreame doing AI hardware incubation and investment. Connected to DreameClaw initiative.\n\n**核心方向**：AI领域投资、AI硬件/嵌入式方向\n\n**正在寻找**：寻找优质AI早期项目和创业团队\n\n**群管备注**：硬件方向，软硬结合的稀缺资源",
-    "order": 56
+    "order": 55
   },
   {
-    "name": "Evan Chen (陈一帆)",
+    "name": "Evan Chen - 陈一帆",
     "bio": "大厂AI infra工程师，Claude Code重度用户",
     "background": "在大厂做AI infra，Claude Code重度用户",
     "skills": [
@@ -2110,7 +2054,7 @@
     "intro": "大厂AI infra工程师，Claude Code重度用户。在大厂做AI infra，Claude Code重度用户",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：大厂AI infra工程师，Claude Code重度用户。在大厂做AI infra，Claude Code重度用户\n\n**资源/擅长**：AI infra、Claude Code\n\n**群管备注**：OpenClaw重度用户，实战经验丰富",
-    "order": 57
+    "order": 56
   },
   {
     "name": "Leooooooo",
@@ -2129,7 +2073,7 @@
     "intro": "Leo, co-founder at AEON, aeon.xyz, focusing on AI Payments.。Co-founder of AEON (aeon.xyz), an AI Payments company.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Leo, co-founder at AEON, aeon.xyz, focusing on AI Payments.。Co-founder of AEON (aeon.xyz), an AI Payments company.\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 58
+    "order": 57
   },
   {
     "name": "吕一我",
@@ -2148,7 +2092,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 59
+    "order": 58
   },
   {
     "name": "V V",
@@ -2167,10 +2111,10 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 60
+    "order": 59
   },
   {
-    "name": "铁人不需要休息 (Nil)",
+    "name": "铁人不需要休息",
     "bio": "追觅AGENT智能硬件负责人，推出DreameClaw",
     "background": "追觅AGENT智能硬件负责人，探索openclaw各种场景，正在推出DreameClaw为整个追觅赋能",
     "skills": [
@@ -2206,7 +2150,7 @@
     "intro": "追觅AGENT智能硬件负责人，推出DreameClaw。追觅AGENT智能硬件负责人，探索openclaw各种场景，正在推出DreameClaw为整个追觅赋能",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：追觅AGENT智能硬件负责人，推出DreameClaw。追觅AGENT智能硬件负责人，探索openclaw各种场景，正在推出DreameClaw为整个追觅赋能\n\n**核心方向**：OpenClaw生态建设与应用、AI Agent开发与应用\n\n**资源/擅长**：AI硬件、Agent产品、OpenClaw\n\n**正在寻找**：寻找OpenClaw应用场景和技术交流\n\n**群管备注**：硬件方向，软硬结合的稀缺资源",
-    "order": 61
+    "order": 60
   },
   {
     "name": "王意翔",
@@ -2255,10 +2199,10 @@
     "intro": "AbbVie药企AI创新战略负责人，计算神经科学背景。系统及计算神经科学学术背景，在AbbVie负责药物研发及AI创新战略。业余经营创业公司，用OpenClaw辅助AI consulting业务。Claude Code/Cursor/Replit重度用户",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：AbbVie药企AI创新战略负责人，计算神经科学背景。系统及计算神经科学学术背景，在AbbVie负责药物研发及AI创新战略。业余经营创业公司，用OpenClaw辅助AI consulting业务。Claude Code/Cursor/Replit重度用户\n\n**核心方向**：OpenClaw生态建设与应用、AI方向创业\n\n**资源/擅长**：计算神经科学、药物研发、AI战略、Claude Code、Cursor\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：OpenClaw重度用户，实战经验丰富\n\n**所在地**：Mountain View",
-    "order": 62
+    "order": 61
   },
   {
-    "name": "目成 (Max)",
+    "name": "目成",
     "bio": "追觅AGENT智能硬件算法负责人，浙大博主，每天烧1千万token",
     "background": "追觅AGENT算法负责人，浙大博主，openclaw重度用户，每天烧掉1千万token，愿景是打造个人超级智能",
     "skills": [
@@ -2307,7 +2251,7 @@
     "intro": "追觅AGENT智能硬件算法负责人，浙大博主，每天烧1千万token。追觅AGENT算法负责人，浙大博主，openclaw重度用户，每天烧掉1千万token，愿景是打造个人超级智能",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：追觅AGENT智能硬件算法负责人，浙大博主，每天烧1千万token。追觅AGENT算法负责人，浙大博主，openclaw重度用户，每天烧掉1千万token，愿景是打造个人超级智能\n\n**核心方向**：OpenClaw生态建设与应用、AI Agent开发与应用\n\n**资源/擅长**：AI算法、硬件算法、OpenClaw、数据采集\n\n**正在寻找**：寻找AI领域深度合作与内容共创\n\n**群管备注**：硬件方向，软硬结合的稀缺资源",
-    "order": 63
+    "order": 62
   },
   {
     "name": "Robin 乔彦博",
@@ -2346,10 +2290,10 @@
     "intro": "Tiktok电商，用龙虾做工作自动化，有多台宇树G1机器人。在Tiktok电商工作，用龙虾做工作自动化探索。和朋友做景区机器人表演，有多台宇树G1",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Tiktok电商，用龙虾做工作自动化，有多台宇树G1机器人。在Tiktok电商工作，用龙虾做工作自动化探索。和朋友做景区机器人表演，有多台宇树G1\n\n**核心方向**：具身智能与机器人、AI自动化解决方案\n\n**资源/擅长**：电商自动化、OpenClaw、机器人\n\n**正在寻找**：寻找OpenClaw应用场景和技术交流\n\n**群管备注**：硬件方向，软硬结合的稀缺资源",
-    "order": 64
+    "order": 63
   },
   {
-    "name": "致饰_",
+    "name": "-致饰_",
     "bio": "在一家startup做AI tech lead，主要做agent方面的产品",
     "background": "startup AI tech lead，agent产品开发",
     "skills": [
@@ -2384,7 +2328,7 @@
     "intro": "在一家startup做AI tech lead，主要做agent方面的产品。startup AI tech lead，agent产品开发",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：在一家startup做AI tech lead，主要做agent方面的产品。startup AI tech lead，agent产品开发\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：AI tech lead、Agent产品开发\n\n**群管备注**：群内活跃成员",
-    "order": 65
+    "order": 64
   },
   {
     "name": "Corynne",
@@ -2414,7 +2358,7 @@
     "intro": "初创公司团队leader，带队做coding agent。在一家初创公司做团队leader，最近带队做coding agent",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：初创公司团队leader，带队做coding agent。在一家初创公司做团队leader，最近带队做coding agent\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：团队管理、coding agent开发\n\n**群管备注**：群内活跃成员",
-    "order": 66
+    "order": 65
   },
   {
     "name": "尤洋",
@@ -2441,10 +2385,10 @@
     "intro": "蓝驰portfolio创业者。之前在蓝驰portfolio，被Aiden欢迎'又碰到了'",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：蓝驰portfolio创业者。之前在蓝驰portfolio，被Aiden欢迎'又碰到了'\n\n**核心方向**：AI方向创业\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 67
+    "order": 66
   },
   {
-    "name": "赵承乾 Mike",
+    "name": "赵承乾Mike",
     "bio": "Task Monkey Founder，用龙虾替代和自动化运营工作",
     "background": "Base在湾区，Task Monkey Founder，帮用户把繁琐的沟通和执行交给AI",
     "skills": [
@@ -2484,7 +2428,7 @@
     "intro": "Task Monkey Founder，用龙虾替代和自动化运营工作。Base在湾区，Task Monkey Founder，帮用户把繁琐的沟通和执行交给AI",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Task Monkey Founder，用龙虾替代和自动化运营工作。Base在湾区，Task Monkey Founder，帮用户把繁琐的沟通和执行交给AI\n\n**核心方向**：AI自动化解决方案\n\n**资源/擅长**：AI自动化、运营自动化、OpenClaw\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验\n\n**所在地**：湾区",
-    "order": 68
+    "order": 67
   },
   {
     "name": "杨劲松 Edward",
@@ -2522,7 +2466,7 @@
     "intro": "Autoagents创始人，聚焦专家能力数字化让超级个体放大影响力。Autoagents创始人，主要聚焦如何将专家能力数字化，龙虾是重要载体和入口",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Autoagents创始人，聚焦专家能力数字化让超级个体放大影响力。Autoagents创始人，主要聚焦如何将专家能力数字化，龙虾是重要载体和入口\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：Agent开发、专家系统数字化\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 69
+    "order": 68
   },
   {
     "name": "kevin",
@@ -2570,7 +2514,7 @@
     "intro": "不务正业的程序员，白天写代码晚上养龙虾，研究AI投广告。同时运行9个bot。正在折腾让AI帮投广告和研究爆款内容",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：不务正业的程序员，白天写代码晚上养龙虾，研究AI投广告。同时运行9个bot。正在折腾让AI帮投广告和研究爆款内容\n\n**核心方向**：AI内容创作\n\n**资源/擅长**：编程、AI广告、OpenClaw、多bot管理\n\n**正在寻找**：寻找学术与产业结合的落地机会\n\n**群管备注**：OpenClaw重度用户，实战经验丰富",
-    "order": 70
+    "order": 69
   },
   {
     "name": "Donny",
@@ -2589,7 +2533,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found. Joined via Aiden's invitation.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found. Joined via Aiden's invitation.\n\n**群管备注**：群内活跃成员",
-    "order": 71
+    "order": 70
   },
   {
     "name": "Finn",
@@ -2619,10 +2563,10 @@
     "intro": "面向创作场景的主动式agent产品Founder。做面向创作场景的主动式agent产品，能聊技术也能聊产品",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：面向创作场景的主动式agent产品Founder。做面向创作场景的主动式agent产品，能聊技术也能聊产品\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：Agent产品、创作场景AI\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 72
+    "order": 71
   },
   {
-    "name": "李然",
+    "name": "lr",
     "bio": "Google agent platform lead",
     "background": "Google agent platform lead",
     "skills": [
@@ -2641,7 +2585,7 @@
     "intro": "Google agent platform lead。Google agent platform lead",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Google agent platform lead\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：Agent平台、Google产品\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员",
-    "order": 73
+    "order": 72
   },
   {
     "name": "Jun Wang",
@@ -2661,7 +2605,7 @@
     "intro": "群内讨论中出现，对OpenClaw活动感兴趣。询问是否可以远程加入OpenClaw线下活动",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：群内讨论中出现，对OpenClaw活动感兴趣。询问是否可以远程加入OpenClaw线下活动\n\n**核心方向**：OpenClaw生态建设与应用\n\n**正在寻找**：寻找OpenClaw应用场景和技术交流\n\n**群管备注**：群内活跃成员",
-    "order": 74
+    "order": 73
   },
   {
     "name": "zwx",
@@ -2680,7 +2624,7 @@
     "intro": "Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 75
+    "order": 74
   },
   {
     "name": "Bill",
@@ -2706,7 +2650,7 @@
     "intro": "Wondera.ai，音乐方向自动创作agent，智能艺人。Wondera.ai，做音乐方向自动创作agent，可作为智能艺人，可面向IM接入",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Wondera.ai，音乐方向自动创作agent，智能艺人。Wondera.ai，做音乐方向自动创作agent，可作为智能艺人，可面向IM接入\n\n**核心方向**：AI Agent开发与应用、AI音乐生成\n\n**资源/擅长**：音乐AI生成、自动创作agent\n\n**群管备注**：群内活跃成员",
-    "order": 76
+    "order": 75
   },
   {
     "name": "新媒沈阳",
@@ -2759,62 +2703,23 @@
     "intro": "清华新闻与传播学院合作，ZeeLin Deep Research，开发ZeeLinClaw国产OpenClaw。发布OpenClaw发展研究报告(清华联合)。自研ZeeLinClaw国产Windows版OpenClaw。OpenClaw里第一个华语音乐Skill。ZeeLin Search智灵搜索skill(日处理5亿条数据)",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：清华新闻与传播学院合作，ZeeLin Deep Research，开发ZeeLinClaw国产OpenClaw。发布OpenClaw发展研究报告(清华联合)。自研ZeeLinClaw国产Windows版OpenClaw。OpenClaw里第一个华语音乐Skill。ZeeLin Search智灵搜索skill(日处理5亿条数据)\n\n**核心方向**：OpenClaw生态建设与应用、AI音乐生成\n\n**资源/擅长**：AI研究、ZeeLin、ZeeLinClaw、音乐AI、OpenClaw Skill\n\n**正在寻找**：寻找学术与产业结合的落地机会\n\n**群管备注**：有成熟商业化产品，实战经验丰富",
+    "order": 76
+  },
+  {
+    "name": "李",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 268,
+    "contact": "",
+    "ai_profile": "",
     "order": 77
   },
   {
-    "name": "李冠霖",
-    "bio": "机器人专业，从事机器人和具身智能研究开发",
-    "background": "机器人专业，研究AI agent在多机器人中的协作与交流，频繁使用OpenClaw辅助开发",
-    "skills": [
-      "机器人",
-      "具身智能",
-      "AI Agent",
-      "多机器人协作"
-    ],
-    "city": "",
-    "tags": [
-      {
-        "category": "industry",
-        "label": "AI/人工智能"
-      },
-      {
-        "category": "industry",
-        "label": "教育"
-      },
-      {
-        "category": "industry",
-        "label": "金融投资"
-      },
-      {
-        "category": "industry",
-        "label": "硬件/机器人"
-      },
-      {
-        "category": "career",
-        "label": "工程师"
-      },
-      {
-        "category": "city",
-        "label": "洛杉矶"
-      },
-      {
-        "category": "skill",
-        "label": "编程"
-      },
-      {
-        "category": "skill",
-        "label": "AI工具"
-      }
-    ],
-    "id": 60,
-    "contact": "",
-    "intro": "机器人专业，从事机器人和具身智能研究开发。机器人专业，研究AI agent在多机器人中的协作与交流，频繁使用OpenClaw辅助开发",
-    "time": "2026-03-08",
-    "ai_profile": "**详细背景**：机器人专业，从事机器人和具身智能研究开发。机器人专业，研究AI agent在多机器人中的协作与交流，频繁使用OpenClaw辅助开发\n\n**核心方向**：OpenClaw生态建设与应用、AI Agent开发与应用\n\n**资源/擅长**：机器人、具身智能、AI Agent、多机器人协作\n\n**正在寻找**：寻找学术与产业结合的落地机会\n\n**群管备注**：硬件方向，软硬结合的稀缺资源",
-    "order": 78
-  },
-  {
-    "name": "Mark@AI",
+    "name": "Mark@AIGC指数",
     "bio": "Full display name: 'Mark@AIGC指数'. Joined via Patrick Liu's QR code.",
     "background": "Connected to AIGC (AI-Generated Content) metrics/index.",
     "skills": [],
@@ -2830,7 +2735,7 @@
     "intro": "Full display name: 'Mark@AIGC指数'. Joined via Patrick Liu's QR code.。Connected to AIGC (AI-Generated Content) metrics/index.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Full display name: 'Mark@AIGC指数'. Joined via Patrick Liu's QR code.。Connected to AIGC (AI-Generated Content) metrics/index.\n\n**群管备注**：群内活跃成员",
-    "order": 79
+    "order": 78
   },
   {
     "name": "Elaine",
@@ -2849,10 +2754,10 @@
     "intro": "Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 80
+    "order": 79
   },
   {
-    "name": "赵寰宇 Arthur Zhao",
+    "name": "赵寰宇Arthur Zhao",
     "bio": "Full display name: '赵富宇Arthur Zhao'. Joined via Patrick Liu's QR code.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -2868,10 +2773,10 @@
     "intro": "Full display name: '赵富宇Arthur Zhao'. Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Full display name: '赵富宇Arthur Zhao'. Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 81
+    "order": 80
   },
   {
-    "name": "王文峰",
+    "name": "王文峰京拍档",
     "bio": "",
     "background": "",
     "skills": [],
@@ -2887,10 +2792,10 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 82
+    "order": 81
   },
   {
-    "name": "袁来 Steve",
+    "name": "袁来|Steve",
     "bio": "",
     "background": "",
     "skills": [],
@@ -2906,7 +2811,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 83
+    "order": 82
   },
   {
     "name": "陳禹",
@@ -2924,10 +2829,10 @@
     "id": 184,
     "contact": "",
     "ai_profile": "",
-    "order": 84
+    "order": 83
   },
   {
-    "name": "Allyly",
+    "name": "Ally.ly🌟",
     "bio": "Display name: 'Ally.ly'. Joined via Patrick Liu's QR code.",
     "background": "Patrick Liu asked her to self-introduce.",
     "skills": [],
@@ -2943,7 +2848,7 @@
     "intro": "Display name: 'Ally.ly'. Joined via Patrick Liu's QR code.。Patrick Liu asked her to self-introduce.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Display name: 'Ally.ly'. Joined via Patrick Liu's QR code.。Patrick Liu asked her to self-introduce.\n\n**群管备注**：群内活跃成员",
-    "order": 85
+    "order": 84
   },
   {
     "name": "张蓓-Shanda Growth",
@@ -2962,7 +2867,7 @@
     "intro": "",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Shanda Growth相关",
-    "order": 86
+    "order": 85
   },
   {
     "name": "贾明华",
@@ -2985,36 +2890,10 @@
     "intro": "具身智能机器人方向。最近痴迷养虾，目前育有三只虾，日均消耗百元美金。",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 87
+    "order": 86
   },
   {
-    "name": "哲",
-    "bio": "使用Codex作为主力模型，研究OpenClaw与多订阅整合方案",
-    "background": "利用OpenAI收购OpenClaw的契机，用subscription quota驱动openclaw，结合CC CLI和Cursor CLI，实现只付三个plan订阅费而不用额外API费用",
-    "skills": [
-      "Codex",
-      "OpenClaw",
-      "Claude Code",
-      "Cursor",
-      "成本优化"
-    ],
-    "city": "",
-    "tags": [
-      {
-        "category": "city",
-        "label": "其它"
-      }
-    ],
-    "contact": "",
-    "source": "discussion",
-    "id": 92,
-    "intro": "使用Codex作为主力模型，研究OpenClaw与多订阅整合方案。利用OpenAI收购OpenClaw的契机，用subscription quota驱动openclaw，结合CC CLI和Cursor CLI，实现只付三个plan订阅费而不用额外API费用",
-    "time": "2026-03-10",
-    "ai_profile": "**详细背景**：使用Codex作为主力模型，研究OpenClaw与多订阅整合方案。利用OpenAI收购OpenClaw的契机，用subscription quota驱动openclaw，结合CC CLI和Cursor CLI，实现只付三个plan订阅费而不用额外API费用\n\n**核心方向**：OpenClaw生态建设与应用\n\n**资源/擅长**：Codex、OpenClaw、Claude Code、Cursor、成本优化\n\n**正在寻找**：寻找学术与产业结合的落地机会\n\n**群管备注**：群内活跃成员",
-    "order": 88
-  },
-  {
-    "name": "Peppaca",
+    "name": "Peppaca US: believe to see",
     "bio": "Full display name: 'Peppaca US: believe to see'. Invited by Lihang.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -3030,10 +2909,10 @@
     "intro": "Full display name: 'Peppaca US: believe to see'. Invited by Lihang.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Full display name: 'Peppaca US: believe to see'. Invited by Lihang.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 89
+    "order": 87
   },
   {
-    "name": "蓝珣 QIQI",
+    "name": "靈琦QIQI-重要事情打电话",
     "bio": "企业AI agent solution创业者，Kaitan的技术小伙伴",
     "background": "和Kaitan一起做面向企业用户的AI agent solution+framework",
     "skills": [
@@ -3073,7 +2952,7 @@
     "intro": "企业AI agent solution创业者，Kaitan的技术小伙伴。和Kaitan一起做面向企业用户的AI agent solution+framework",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：企业AI agent solution创业者，Kaitan的技术小伙伴。和Kaitan一起做面向企业用户的AI agent solution+framework\n\n**核心方向**：AI Agent开发与应用、AI方向创业\n\n**资源/擅长**：AI Agent、企业解决方案、框架开发\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 90
+    "order": 88
   },
   {
     "name": "Chen",
@@ -3104,7 +2983,7 @@
     "intro": "Lamose.com cofounder，做私人定制保温杯/tshirt等。Lamose.com cofounder，做私人定制保温杯、tshirt、胸牌等公司产品，学习利用AI帮助企业",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Lamose.com cofounder，做私人定制保温杯/tshirt等。Lamose.com cofounder，做私人定制保温杯、tshirt、胸牌等公司产品，学习利用AI帮助企业\n\n**资源/擅长**：创业、定制产品、AI应用\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 91
+    "order": 89
   },
   {
     "name": "刘卓德",
@@ -3131,7 +3010,7 @@
     "intro": "Google Engineer，做音乐生成方向，喜欢捣鼓agent。在Google做Engineer，音乐生成方向，喜欢捣鼓agent",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Google Engineer，做音乐生成方向，喜欢捣鼓agent。在Google做Engineer，音乐生成方向，喜欢捣鼓agent\n\n**核心方向**：AI Agent开发与应用、AI音乐生成\n\n**资源/擅长**：音乐生成、AI Agent、Engineer\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员\n\n**所在地**：Mountain View",
-    "order": 92
+    "order": 90
   },
   {
     "name": "Qi Deng",
@@ -3178,10 +3057,10 @@
     "intro": "aurascape.ai做AI security，发现多家AI公司漏洞。在aurascape.ai做AI security，build product protect AI同时build AI agent solve security problem。发现OpenAI/Anthropic/Manus/OpenClaw等漏洞",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：aurascape.ai做AI security，发现多家AI公司漏洞。在aurascape.ai做AI security，build product protect AI同时build AI agent solve security problem。发现OpenAI/Anthropic/Manus/OpenClaw等漏洞\n\n**核心方向**：OpenClaw生态建设与应用、AI Agent开发与应用\n\n**资源/擅长**：AI安全、漏洞挖掘、AI Agent\n\n**正在寻找**：寻找OpenClaw应用场景和技术交流\n\n**群管备注**：群内活跃成员",
-    "order": 93
+    "order": 91
   },
   {
-    "name": "毛华",
+    "name": "毛华🦞",
     "bio": "ccMonet.AI创始人，原腾讯应用宝创始人，腾讯物联和AI语音负责人",
     "background": "原腾讯应用宝创始人，2011年将公司卖给腾讯。先后负责腾讯手机管家、QQ物联、视频云、AI对话平台。2019年离职搬新加坡，2023年创立ccMonet.AI面向全球中小企业AI财务助手",
     "skills": [
@@ -3211,7 +3090,7 @@
     "intro": "ccMonet.AI创始人，原腾讯应用宝创始人，腾讯物联和AI语音负责人。原腾讯应用宝创始人，2011年将公司卖给腾讯。先后负责腾讯手机管家、QQ物联、视频云、AI对话平台。2019年离职搬新加坡，2023年创立ccMonet.AI面向全球中小企业AI财务助手",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：ccMonet.AI创始人，原腾讯应用宝创始人，腾讯物联和AI语音负责人。原腾讯应用宝创始人，2011年将公司卖给腾讯。先后负责腾讯手机管家、QQ物联、视频云、AI对话平台。2019年离职搬新加坡，2023年创立ccMonet.AI面向全球中小企业AI财务助手\n\n**资源/擅长**：产品、AI财务、AI语音、物联网、创业\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：互联网大厂高管背景，商业洞察力强\n\n**所在地**：新加坡",
-    "order": 94
+    "order": 92
   },
   {
     "name": "Kaitan",
@@ -3259,7 +3138,7 @@
     "intro": "Mountain View AI创业者，前500强金融数据科学家，AI与human wellbeing。常驻Mountain View，曾任美国500强金融公司数据科学家，现全职创业做AI与human wellbeing。做AI自我认知工坊(Ikigai+GPT记忆)。Claude/Gemini/ChatGPT top 1%用户",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Mountain View AI创业者，前500强金融数据科学家，AI与human wellbeing。常驻Mountain View，曾任美国500强金融公司数据科学家，现全职创业做AI与human wellbeing。做AI自我认知工坊(Ikigai+GPT记忆)。Claude/Gemini/ChatGPT top 1%用户\n\n**核心方向**：AI方向创业、AI金融科技\n\n**资源/擅长**：数据科学、AI创业、Prompt工程、human wellbeing\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验\n\n**所在地**：Mountain View",
-    "order": 95
+    "order": 93
   },
   {
     "name": "金石",
@@ -3285,7 +3164,7 @@
     "intro": "IBM engineer，业余做运动健身AI app。在IBM做engineer，业余做几个运动健身AI app",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：IBM engineer，业余做运动健身AI app。在IBM做engineer，业余做几个运动健身AI app\n\n**资源/擅长**：Engineer、运动健身AI\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员\n\n**所在地**：Mountain View",
-    "order": 96
+    "order": 94
   },
   {
     "name": "John",
@@ -3304,7 +3183,7 @@
     "intro": "Invited by Lihang.。Patrick Liu asked him to introduce himself.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Lihang.。Patrick Liu asked him to introduce himself.\n\n**群管备注**：群内活跃成员",
-    "order": 97
+    "order": 95
   },
   {
     "name": "常识",
@@ -3323,7 +3202,7 @@
     "intro": "Invited by Patrick Liu. Active member who then invited Brandon Chen 陈春宇 into the group.。Invited Brandon Chen. Said '欢迎!' in the group.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Patrick Liu. Active member who then invited Brandon Chen 陈春宇 into the group.。Invited Brandon Chen. Said '欢迎!' in the group.\n\n**群管备注**：群内活跃成员",
-    "order": 98
+    "order": 96
   },
   {
     "name": "Brandon Chen 陈春宇",
@@ -3358,10 +3237,10 @@
     "intro": "Berkeley，与Patrick联合创办AI社群道生AI。Patrick一起创办道生AI。在Berkeley办Claude Code & OpenClaw的Lunch & Live Use Cases活动",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Berkeley，与Patrick联合创办AI社群道生AI。Patrick一起创办道生AI。在Berkeley办Claude Code & OpenClaw的Lunch & Live Use Cases活动\n\n**核心方向**：OpenClaw生态建设与应用\n\n**资源/擅长**：AI社群、活动组织、Claude Code\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：群内活跃成员\n\n**所在地**：Berkeley",
-    "order": 99
+    "order": 97
   },
   {
-    "name": "ich liebe dich (Celine)",
+    "name": "ich liebe dich",
     "bio": "蓝驰投资，关注AI产品PMF",
     "background": "Patrick Liu介绍为'蓝驰的小朋友Celine，人脉王高认知'",
     "skills": [
@@ -3391,7 +3270,7 @@
     "intro": "蓝驰投资，关注AI产品PMF。Patrick Liu介绍为'蓝驰的小朋友Celine，人脉王高认知'",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：蓝驰投资，关注AI产品PMF。Patrick Liu介绍为'蓝驰的小朋友Celine，人脉王高认知'\n\n**核心方向**：AI领域投资\n\n**资源/擅长**：产品分析\n\n**正在寻找**：寻找优质AI早期项目和创业团队\n\n**群管备注**：Patrick引荐，值得深度交流",
-    "order": 100
+    "order": 98
   },
   {
     "name": "Yu",
@@ -3410,10 +3289,10 @@
     "intro": "Joined via 露琦QIQI's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via 露琦QIQI's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 101
+    "order": 99
   },
   {
-    "name": "Joshua (zhaboller华)",
+    "name": "zhaboller华",
     "bio": "Adobe AI Engineer，做公司内部agent开发",
     "background": "在Adobe做AI Engineer，做公司内部agent开发",
     "skills": [
@@ -3445,7 +3324,7 @@
     "intro": "Adobe AI Engineer，做公司内部agent开发。在Adobe做AI Engineer，做公司内部agent开发",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Adobe AI Engineer，做公司内部agent开发。在Adobe做AI Engineer，做公司内部agent开发\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：AI Engineer、Agent开发、多模态\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员\n\n**所在地**：Mountain View",
-    "order": 102
+    "order": 100
   },
   {
     "name": "睿",
@@ -3464,7 +3343,7 @@
     "intro": "李冠睿，机器人专业，目前从事机器人和具身智能的研究和开发。团队正在研究AI agent在多机器人中的协作与交流。。Robotics professional working on embodied intelligence and multi-robot AI agent collaboration.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：李冠睿，机器人专业，目前从事机器人和具身智能的研究和开发。团队正在研究AI agent在多机器人中的协作与交流。。Robotics professional working on embodied intelligence and multi-robot AI agent collaboration.\n\n**核心方向**：AI Agent开发与应用、具身智能与机器人\n\n**正在寻找**：寻找学术与产业结合的落地机会\n\n**群管备注**：硬件方向，软硬结合的稀缺资源",
-    "order": 103
+    "order": 101
   },
   {
     "name": "吴昊",
@@ -3503,7 +3382,7 @@
     "intro": "详细背景：西东智能科技CEO\n擅长：AI陪伴机器人\n关注：OpenClaw应用于具身智能\n一句话：在融资中",
     "time": "2026-03-08",
     "ai_profile": "",
-    "order": 104
+    "order": 102
   },
   {
     "name": "Lynn",
@@ -3532,10 +3411,10 @@
     "intro": "北大毕业，现在Meta AI部门。Patrick Liu介绍为'北大大师妹，现在在Meta AI部门'",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：北大毕业，现在Meta AI部门。Patrick Liu介绍为'北大大师妹，现在在Meta AI部门'\n\n**资源/擅长**：AI研究\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：Patrick引荐，值得深度交流\n\n**所在地**：美国",
-    "order": 105
+    "order": 103
   },
   {
-    "name": "July to Angel",
+    "name": "July to Antares🍎",
     "bio": "Full display name: 'July to Antares'. Patrick Liu asked this person to introduce themselves.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -3551,7 +3430,7 @@
     "intro": "Full display name: 'July to Antares'. Patrick Liu asked this person to introduce themselves.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Full display name: 'July to Antares'. Patrick Liu asked this person to introduce themselves.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 106
+    "order": 104
   },
   {
     "name": "Matrix",
@@ -3570,7 +3449,7 @@
     "intro": "Invited by Lihang.。Patrick Liu asked him to introduce himself.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Lihang.。Patrick Liu asked him to introduce himself.\n\n**群管备注**：群内活跃成员",
-    "order": 107
+    "order": 105
   },
   {
     "name": "PeterXu",
@@ -3589,10 +3468,10 @@
     "intro": "Joined via Patrick Liu's QR code.。Patrick Liu asked him to introduce himself.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。Patrick Liu asked him to introduce himself.\n\n**群管备注**：群内活跃成员",
-    "order": 108
+    "order": 106
   },
   {
-    "name": "邓天卓 Gene",
+    "name": "邓天卓Gene",
     "bio": "老京东高管，AI创业者，每天玩OpenClaw十六七小时",
     "background": "Patrick Liu介绍为'老朋友、老京东高管、牛逼AI创业者'。最近沉迷OpenClaw每天十六七小时",
     "skills": [
@@ -3636,10 +3515,10 @@
     "intro": "老京东高管，AI创业者，每天玩OpenClaw十六七小时。Patrick Liu介绍为'老朋友、老京东高管、牛逼AI创业者'。最近沉迷OpenClaw每天十六七小时",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：老京东高管，AI创业者，每天玩OpenClaw十六七小时。Patrick Liu介绍为'老朋友、老京东高管、牛逼AI创业者'。最近沉迷OpenClaw每天十六七小时\n\n**核心方向**：OpenClaw生态建设与应用、AI方向创业\n\n**资源/擅长**：AI创业、电商、OpenClaw\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：大咖级人物，Patrick重点推荐\n\n**所在地**：洛杉矶/湾区",
-    "order": 109
+    "order": 107
   },
   {
-    "name": "孔蓉 Karin",
+    "name": "孔蓉Karin",
     "bio": "Joined via Patrick Liu's QR code.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -3655,7 +3534,7 @@
     "intro": "Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 110
+    "order": 108
   },
   {
     "name": "Lijing Ying",
@@ -3674,7 +3553,7 @@
     "intro": "Invited by Lihang.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Lihang.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 111
+    "order": 109
   },
   {
     "name": "于伟",
@@ -3705,7 +3584,7 @@
     "intro": "详细背景：AI行业，专注大模型商业化\n擅长：AI产品研发\n关注：看护机器人、具身智能\n一句话：通过AI和具身智能解决老年生活问题",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 112
+    "order": 110
   },
   {
     "name": "frank",
@@ -3730,7 +3609,7 @@
     "intro": "微博前总经理，Patrick好朋友，在硅谷。Patrick Liu介绍为'微博前总经理'",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：微博前总经理，Patrick好朋友，在硅谷。Patrick Liu介绍为'微博前总经理'\n\n**资源/擅长**：金融\n\n**群管备注**：Patrick引荐，值得深度交流\n\n**所在地**：硅谷",
-    "order": 113
+    "order": 111
   },
   {
     "name": "琼慧啊",
@@ -3748,7 +3627,7 @@
     "id": 185,
     "contact": "",
     "ai_profile": "",
-    "order": 114
+    "order": 112
   },
   {
     "name": "Philip",
@@ -3779,10 +3658,10 @@
     "intro": "微信名：Phillip L.\n详细背景：比特小鹿/顾问，有算力，在美国有大量电力，在美国建数据中心\n擅长：算力资源\n关注：大模型优化项目，垂直应用领域合作\n一句话：希望把算力都卖出去",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 115
+    "order": 113
   },
   {
-    "name": "郑光辉",
+    "name": "郑光辉 Kouki",
     "bio": "",
     "background": "",
     "skills": [],
@@ -3798,7 +3677,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 116
+    "order": 114
   },
   {
     "name": "张健",
@@ -3817,7 +3696,7 @@
     "intro": "Joined via Patrick Liu's QR code. Active in group - shared article '李诞都开始养小龙虾了'.。Patrick Liu asked him to self-introduce.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code. Active in group - shared article '李诞都开始养小龙虾了'.。Patrick Liu asked him to self-introduce.\n\n**正在寻找**：寻找OpenClaw应用场景和技术交流\n\n**群管备注**：群内活跃成员",
-    "order": 117
+    "order": 115
   },
   {
     "name": "姜兆恒",
@@ -3836,10 +3715,10 @@
     "intro": "Display name in invitation: '姜兆恒'. Joined via Patrick Liu's QR code.。Patrick Liu asked him to self-introduce.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Display name in invitation: '姜兆恒'. Joined via Patrick Liu's QR code.。Patrick Liu asked him to self-introduce.\n\n**群管备注**：群内活跃成员",
-    "order": 118
+    "order": 116
   },
   {
-    "name": "Yonghui",
+    "name": "Yonghui (Chris) Ma",
     "bio": "Full display name: 'Yonghui (Chris) Ma'. Joined via Patrick Liu's QR code.",
     "background": "Patrick Liu asked him to self-introduce.",
     "skills": [],
@@ -3855,7 +3734,7 @@
     "intro": "Full display name: 'Yonghui (Chris) Ma'. Joined via Patrick Liu's QR code.。Patrick Liu asked him to self-introduce.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Full display name: 'Yonghui (Chris) Ma'. Joined via Patrick Liu's QR code.。Patrick Liu asked him to self-introduce.\n\n**群管备注**：群内活跃成员",
-    "order": 119
+    "order": 117
   },
   {
     "name": "郑有成",
@@ -3874,10 +3753,10 @@
     "intro": "Display name in invitation: '郑有成'. Joined via Patrick Liu's QR code.。Patrick Liu asked him to self-introduce.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Display name in invitation: '郑有成'. Joined via Patrick Liu's QR code.。Patrick Liu asked him to self-introduce.\n\n**群管备注**：群内活跃成员",
-    "order": 120
+    "order": 118
   },
   {
-    "name": "李榜主",
+    "name": "李榜主#公众号：AI产品榜",
     "bio": "",
     "background": "",
     "skills": [],
@@ -3901,10 +3780,10 @@
     "intro": "详细背景：发起AI榜单「AI产品榜」（公众号），被30万AI相关从业者关注，评价为业内前沿，被互联网女皇、硅谷传奇投资人Mary Meeker引用\n擅长：AI产品评测与榜单运营\n关注：AI产品前沿",
     "time": "2026-03-08",
     "ai_profile": "",
-    "order": 121
+    "order": 119
   },
   {
-    "name": "蚂蚁战投",
+    "name": "蚂蚁战投 刘雪峰",
     "bio": "",
     "background": "",
     "skills": [],
@@ -3920,7 +3799,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 122
+    "order": 120
   },
   {
     "name": "Kelly Peng",
@@ -3939,7 +3818,7 @@
     "intro": "Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 123
+    "order": 121
   },
   {
     "name": "Harrison 姜浩楠",
@@ -3983,7 +3862,7 @@
     "intro": "元璟资本，一级市场AI和机器人产业投资。元璟资本，从事一级市场AI和机器人产业投资，尝试搭建二级联动AI Native投资自动化系统。文章'用Agents成立了一家投资公司'",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：元璟资本，一级市场AI和机器人产业投资。元璟资本，从事一级市场AI和机器人产业投资，尝试搭建二级联动AI Native投资自动化系统。文章'用Agents成立了一家投资公司'\n\n**核心方向**：AI Agent开发与应用、AI领域投资\n\n**资源/擅长**：一级市场投资、AI投资、机器人投资、AI Agent\n\n**正在寻找**：寻找优质AI早期项目和创业团队\n\n**群管备注**：投资人，有融资需求可对接",
-    "order": 124
+    "order": 122
   },
   {
     "name": "张靖鹏",
@@ -4002,10 +3881,10 @@
     "intro": "Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 125
+    "order": 123
   },
   {
-    "name": "Cobo (云启资本)",
+    "name": "Cobo-云启资本",
     "bio": "Plantree/云启资本投资人，双币基金，关注AI应用及硬件投资",
     "background": "Plantree/云启资本投资人，注册在新加坡/上海的双币基金，主要关注AI应用及AI硬件方向投资机会",
     "skills": [
@@ -4049,7 +3928,7 @@
     "intro": "Plantree/云启资本投资人，双币基金，关注AI应用及硬件投资。Plantree/云启资本投资人，注册在新加坡/上海的双币基金，主要关注AI应用及AI硬件方向投资机会",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Plantree/云启资本投资人，双币基金，关注AI应用及硬件投资。Plantree/云启资本投资人，注册在新加坡/上海的双币基金，主要关注AI应用及AI硬件方向投资机会\n\n**核心方向**：AI领域投资、AI硬件/嵌入式方向\n\n**资源/擅长**：投资、AI应用投资、AI硬件投资\n\n**正在寻找**：寻找优质AI早期项目和创业团队\n\n**群管备注**：投资人，有融资需求可对接\n\n**所在地**：新加坡/上海",
-    "order": 126
+    "order": 124
   },
   {
     "name": "Jack Jin",
@@ -4068,10 +3947,10 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 127
+    "order": 125
   },
   {
-    "name": "范策Sheng",
+    "name": "氪莱Sheng",
     "bio": "Invited by 毛华❤️.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -4087,7 +3966,7 @@
     "intro": "Invited by 毛华❤️.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by 毛华❤️.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 128
+    "order": 126
   },
   {
     "name": "李佳芮",
@@ -4106,7 +3985,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 129
+    "order": 127
   },
   {
     "name": "Apollo",
@@ -4137,7 +4016,7 @@
     "intro": "详细背景：机器人，智能硬件，AI Agent系统研发，北大背景\n擅长：AI产品，智能硬件研发\n关注：智能硬件，具身智能，AI Agent产品\n一句话：通过AI，希望认识一起合作的朋友和投资人",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 130
+    "order": 128
   },
   {
     "name": "m",
@@ -4156,7 +4035,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 131
+    "order": 129
   },
   {
     "name": "一丁",
@@ -4191,10 +4070,10 @@
     "intro": "加州早期风险投资，重点关注AI和robotics。在加州从事早期风险投资，AI和robotics领域，软硬件都有。过去两年美中两地投资超10家AI公司",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：加州早期风险投资，重点关注AI和robotics。在加州从事早期风险投资，AI和robotics领域，软硬件都有。过去两年美中两地投资超10家AI公司\n\n**核心方向**：AI领域投资、AI硬件/嵌入式方向\n\n**资源/擅长**：风险投资、AI投资、robotics投资\n\n**正在寻找**：寻找优质AI早期项目和创业团队\n\n**群管备注**：硬件方向，软硬结合的稀缺资源\n\n**所在地**：加州",
-    "order": 132
+    "order": 130
   },
   {
-    "name": "Zhiben Chen (小明他爸)",
+    "name": "小明他爸",
     "bio": "LLM方向科研，准备做AI agent项目",
     "background": "做LLM方向科研，后面做AI agent相关项目",
     "skills": [
@@ -4217,7 +4096,7 @@
     "intro": "LLM方向科研，准备做AI agent项目。做LLM方向科研，后面做AI agent相关项目",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：LLM方向科研，准备做AI agent项目。做LLM方向科研，后面做AI agent相关项目\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：LLM科研、AI Agent\n\n**群管备注**：群内活跃成员",
-    "order": 133
+    "order": 131
   },
   {
     "name": "ZZ",
@@ -4236,7 +4115,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 134
+    "order": 132
   },
   {
     "name": "Sylvan",
@@ -4263,10 +4142,10 @@
     "intro": "详细背景：连续创业者+前金融投行从业者，大型算力及硬件项目核心贡献者，目前AI/Robotics方向博士在读\n关注：AI、Robotics、算力及硬件",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 135
+    "order": 133
   },
   {
-    "name": "方博立 (LBF)",
+    "name": "LBF",
     "bio": "滴滴美国AI战略首席，前微软应用科学家",
     "background": "滴滴美国AI战略首席，前微软应用科学家。致力于整合AI增强打车及生活类产品效能。做了基于agentic AI的小滴助手",
     "skills": [
@@ -4291,10 +4170,10 @@
     "intro": "滴滴美国AI战略首席，前微软应用科学家。滴滴美国AI战略首席，前微软应用科学家。致力于整合AI增强打车及生活类产品效能。做了基于agentic AI的小滴助手",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：滴滴美国AI战略首席，前微软应用科学家。滴滴美国AI战略首席，前微软应用科学家。致力于整合AI增强打车及生活类产品效能。做了基于agentic AI的小滴助手\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：AI战略、应用科学、Agentic AI、打车AI\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员",
-    "order": 136
+    "order": 134
   },
   {
-    "name": "Grace (陈蕾宇)",
+    "name": "Grace",
     "bio": "Amazon开发，之前做roughneck.ai",
     "background": "在Amazon做开发，之前做roughneck.ai",
     "skills": [
@@ -4325,7 +4204,7 @@
     "intro": "Amazon开发，之前做roughneck.ai。在Amazon做开发，之前做roughneck.ai",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：Amazon开发，之前做roughneck.ai。在Amazon做开发，之前做roughneck.ai\n\n**资源/擅长**：开发、AI应用\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员",
-    "order": 137
+    "order": 135
   },
   {
     "name": "KS",
@@ -4344,10 +4223,10 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 138
+    "order": 136
   },
   {
-    "name": "Victoria",
+    "name": "Victoria-硅谷AI数据公司",
     "bio": "硅谷AI数据公司GTM，Post train & RL environment",
     "background": "GTM@硅谷AI数据公司",
     "skills": [
@@ -4371,10 +4250,10 @@
     "intro": "硅谷AI数据公司GTM，Post train & RL environment。GTM@硅谷AI数据公司",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：硅谷AI数据公司GTM，Post train & RL environment\n\n**擅长领域**：GTM、Post training、RL\n\n**所在地**：硅谷",
-    "order": 139
+    "order": 137
   },
   {
-    "name": "Weimo 刘未未",
+    "name": "Weimo刘未末PuppyGraph",
     "bio": "PuppyGraph，Agent memory for enterprise data，Graph数据库",
     "background": "PuppyGraph创始人。Agent memory for enterprise data: Query your data as a graph。AMD基于其产品做了Agent System for IT Support",
     "skills": [
@@ -4406,7 +4285,7 @@
     "intro": "PuppyGraph，Agent memory for enterprise data，Graph数据库。PuppyGraph创始人。Agent memory for enterprise data: Query your data as a graph。AMD基于其产品做了Agent System for IT Support",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：PuppyGraph，Agent memory for enterprise data，Graph数据库。PuppyGraph创始人。Agent memory for enterprise data: Query your data as a graph。AMD基于其产品做了Agent System for IT Support\n\n**核心方向**：AI Agent开发与应用\n\n**资源/擅长**：Graph Database、AI Agent Memory、Enterprise Data\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验",
-    "order": 140
+    "order": 138
   },
   {
     "name": "Hanlin",
@@ -4425,7 +4304,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 141
+    "order": 139
   },
   {
     "name": "Hao",
@@ -4465,7 +4344,7 @@
     "intro": "阿里菜鸟AI产品经理，问答会议类产品。阿里菜鸟AI产品经理，主要方向问答会议类产品，自己也部署了OpenClaw",
     "time": "2026-03-08",
     "ai_profile": "**详细背景**：阿里菜鸟AI产品经理，问答会议类产品。阿里菜鸟AI产品经理，主要方向问答会议类产品，自己也部署了OpenClaw\n\n**核心方向**：OpenClaw生态建设与应用\n\n**资源/擅长**：AI产品经理、问答产品、会议产品、OpenClaw\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员",
-    "order": 142
+    "order": 140
   },
   {
     "name": "Niki Li",
@@ -4484,7 +4363,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 143
+    "order": 141
   },
   {
     "name": "Gil",
@@ -4503,7 +4382,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 144
+    "order": 142
   },
   {
     "name": "yc",
@@ -4522,7 +4401,7 @@
     "intro": "沈奕辰，阿里菜鸟AI产品经理，主要方向问答会议类产品，目前自己也部署了OpenClaw。。Alibaba Cainiao AI product manager, focused on Q&A and meeting products. Has deployed OpenClaw.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：沈奕辰，阿里菜鸟AI产品经理，主要方向问答会议类产品，目前自己也部署了OpenClaw。。Alibaba Cainiao AI product manager, focused on Q&A and meeting products. Has deployed OpenClaw.\n\n**核心方向**：OpenClaw生态建设与应用\n\n**正在寻找**：寻找技术交流和AI应用探索机会\n\n**群管备注**：群内活跃成员",
-    "order": 145
+    "order": 143
   },
   {
     "name": "erickfang",
@@ -4553,7 +4432,7 @@
     "intro": "微信名：方子恺\n详细背景：汇量科技合伙人（HK1860），主要业务是广告（跟AppLovin业务差不多）和各种营销SaaS\n关注：Agent化",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 146
+    "order": 144
   },
   {
     "name": "Lilyann",
@@ -4576,7 +4455,7 @@
     "intro": "极客公园/Founder Park湾区负责人，关注go global创业者。在湾区负责极客公园在硅谷的事务，关注go global创业者",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：极客公园/Founder Park湾区负责人，关注go global创业者。在湾区负责极客公园在硅谷的事务，关注go global创业者\n\n**核心方向**：AI方向创业\n\n**资源/擅长**：创业者社区运营、go global\n\n**正在寻找**：寻找早期用户、合作伙伴和投资机会\n\n**群管备注**：创业者，有产品和落地经验\n\n**所在地**：湾区/硅谷",
-    "order": 147
+    "order": 145
   },
   {
     "name": "Vance Chen",
@@ -4595,7 +4474,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 148
+    "order": 146
   },
   {
     "name": "迟小羽",
@@ -4614,7 +4493,7 @@
     "intro": "Joined via Patrick Liu's QR code.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Joined via Patrick Liu's QR code.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 149
+    "order": 147
   },
   {
     "name": "白强",
@@ -4633,10 +4512,10 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 150
+    "order": 148
   },
   {
-    "name": "Zoe兆希",
+    "name": "Zoe芃希",
     "bio": "Invited by Jun Wang.",
     "background": "No self-introduction found.",
     "skills": [],
@@ -4652,7 +4531,7 @@
     "intro": "Invited by Jun Wang.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Jun Wang.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 151
+    "order": 149
   },
   {
     "name": "Jun",
@@ -4671,7 +4550,7 @@
     "intro": "Invited by Aiden Chaoyang He.。No self-introduction found.",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：Invited by Aiden Chaoyang He.。No self-introduction found.\n\n**群管备注**：群内活跃成员",
-    "order": 152
+    "order": 150
   },
   {
     "name": "ZK",
@@ -4691,7 +4570,7 @@
     "intro": "被毛华邀请入群，尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：被毛华邀请入群，尚未自我介绍",
-    "order": 153
+    "order": 151
   },
   {
     "name": "jiezhu",
@@ -4711,10 +4590,10 @@
     "intro": "被毛华邀请入群，尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：被毛华邀请入群，尚未自我介绍",
-    "order": 154
+    "order": 152
   },
   {
-    "name": "cursor何",
+    "name": "cursor有人A",
     "bio": "",
     "background": "",
     "skills": [],
@@ -4730,7 +4609,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "",
-    "order": 155
+    "order": 153
   },
   {
     "name": "sean",
@@ -4750,7 +4629,7 @@
     "intro": "被毛华邀请入群，尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：被毛华邀请入群，尚未自我介绍",
-    "order": 156
+    "order": 154
   },
   {
     "name": "董挺宇",
@@ -4768,7 +4647,7 @@
     "id": 186,
     "contact": "",
     "ai_profile": "",
-    "order": 157
+    "order": 155
   },
   {
     "name": "Sarah Pu",
@@ -4788,7 +4667,7 @@
     "intro": "被Aiden Chaoyang He邀请入群，尚未自我介绍",
     "time": "2026-03-10",
     "ai_profile": "**详细背景**：被Aiden Chaoyang He邀请入群，尚未自我介绍",
-    "order": 158
+    "order": 156
   },
   {
     "name": "陈建文James",
@@ -4811,7 +4690,7 @@
         "label": "OpenClaw"
       }
     ],
-    "order": 159,
+    "order": 157,
     "id": 167,
     "bio": "",
     "background": "",
@@ -4827,7 +4706,7 @@
         "label": "其它"
       }
     ],
-    "order": 160,
+    "order": 158,
     "id": 170
   },
   {
@@ -4839,7 +4718,7 @@
         "label": "上海"
       }
     ],
-    "order": 161,
+    "order": 159,
     "id": 168
   },
   {
@@ -4851,11 +4730,11 @@
         "label": "其它"
       }
     ],
-    "order": 162,
+    "order": 160,
     "id": 169
   },
   {
-    "name": "Richard (WpxRichard)",
+    "name": "WpxRichard",
     "intro": "详细背景：Romangic创始人CEO，前大厂AI业务一号位\n擅长：AI技术/产品\n关注：for agents的应用\n一句话：链接有趣有活的人们，碰撞严谨大胆的想法",
     "tags": [
       {
@@ -4879,7 +4758,7 @@
         "label": "AI产品"
       }
     ],
-    "order": 163,
+    "order": 161,
     "id": 171,
     "bio": "",
     "background": "",
@@ -4916,7 +4795,7 @@
     "ai_profile": "",
     "skills": [],
     "id": 175,
-    "order": 164
+    "order": 162
   },
   {
     "name": "林秋楠Dylan",
@@ -4939,7 +4818,7 @@
         "label": "其它"
       }
     ],
-    "order": 165,
+    "order": 163,
     "id": 172,
     "bio": "",
     "background": "",
@@ -4955,7 +4834,7 @@
         "label": "其它"
       }
     ],
-    "order": 166,
+    "order": 164,
     "id": 173
   },
   {
@@ -4967,11 +4846,11 @@
         "label": "其它"
       }
     ],
-    "order": 167,
+    "order": 165,
     "id": 174
   },
   {
-    "name": "张小圈-C-cr7",
+    "name": "张小圈-C-ᶜʳ⁷",
     "bio": "",
     "background": "",
     "skills": [],
@@ -4995,7 +4874,7 @@
     "intro": "微信名：张小圈-C-cr7\n详细背景：AI行业，专注大模型商业化与企业方案\n擅长：跨国AI资源对接、产品落地、商业拓展\n关注：GTC前沿、OpenClaw、大模型应用生态、高效Token利用、智能Agent\n一句话：链接硅谷与国内的AI开发者、创业者",
     "time": "2026-03-12",
     "ai_profile": "",
-    "order": 168
+    "order": 166
   },
   {
     "name": "Mike H",
@@ -5037,7 +4916,7 @@
     "id": 189,
     "contact": "",
     "ai_profile": "",
-    "order": 169
+    "order": 167
   },
   {
     "name": "Victor",
@@ -5055,10 +4934,10 @@
     "id": 190,
     "contact": "",
     "ai_profile": "",
-    "order": 170
+    "order": 168
   },
   {
-    "name": "曾昱 Dennis",
+    "name": "曾旻 Dennis WUI.AI",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5082,7 +4961,7 @@
     "intro": "微信名：曾旻 Dennis WUI.AI\n详细背景：AI创业者，WUI.AI创始人兼CEO，前TikTok PM Lead，Yale MBA + 北大计算机，主要做AI产品和内容平台\n擅长：AI产品设计、Agent系统和内容生产流水线设计，长期做Creator Economy和AI工具\n关注：Multi-Agent系统、OpenClaw自动化、AI Native创作工具、AI内容生产流水线\n一句话：正在做AI Native视频创作系统WUI.AI，也在探索OpenClaw + Agent自动化内容生产，希望认识一起落地AI idea的朋友",
     "time": "2026-03-12",
     "ai_profile": "",
-    "order": 171
+    "order": 169
   },
   {
     "name": "Phil",
@@ -5100,10 +4979,10 @@
     "id": 191,
     "contact": "",
     "ai_profile": "",
-    "order": 172
+    "order": 170
   },
   {
-    "name": "Young",
+    "name": "Young-Kimi",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5127,10 +5006,10 @@
     "intro": "详细背景：ZK+AI Researcher、InteractiveBench核心贡献者\n关注：Agent和AI Infra能力与安全边界",
     "time": "2026-03-12",
     "ai_profile": "",
-    "order": 173
+    "order": 171
   },
   {
-    "name": "Adrian Liu（柳奇）",
+    "name": "Adrian Liu",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5154,7 +5033,7 @@
     "intro": "详细背景：深圳/华为，技术演进和科技外交\n关注：AI Agent/具身智能/计算架构",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 174
+    "order": 172
   },
   {
     "name": "小小",
@@ -5172,7 +5051,7 @@
     "id": 193,
     "contact": "",
     "ai_profile": "",
-    "order": 175
+    "order": 173
   },
   {
     "name": "Louis",
@@ -5190,10 +5069,10 @@
     "id": 194,
     "contact": "",
     "ai_profile": "",
-    "order": 176
+    "order": 174
   },
   {
-    "name": "Nightwish（李岩）",
+    "name": "Nightwish",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5221,7 +5100,7 @@
     "intro": "详细背景：游戏、教育、军工行业，专注元宇宙虚拟仿真、数字孪生行业\n擅长：AI+仿真产品和应用的研发\n关注：AI具身智能、仿真训练\n一句话：寻找AI和具身智能类资源再往应用层面落地",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 177
+    "order": 175
   },
   {
     "name": "Chenyu Zhang",
@@ -5239,10 +5118,10 @@
     "id": 197,
     "contact": "",
     "ai_profile": "",
-    "order": 178
+    "order": 176
   },
   {
-    "name": "Hongyu（泓宇）",
+    "name": "Hongyu",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5270,7 +5149,7 @@
     "intro": "详细背景：Crypto行业5年（交易所上市组、VC），之前在央视新闻中心做内容创作，从0到1做了一个百万粉时政类账号\n擅长：内容创作、Crypto\n关注：OpenClaw、Claude Code、Vibe Coding\n一句话：文科生也能接触到产品开发的流程，希望后面能做出些好玩的产品",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 179
+    "order": 177
   },
   {
     "name": "jangitpoon（潘振杰）",
@@ -5297,7 +5176,7 @@
     "intro": "详细背景：元宇宙/AI Agent/算力供应/国产算力建设\n擅长：AI Agent开发，算力运营\n关注：AI应用场景落地\n一句话：通过AI找算力供应，算力建设，系统应用场景交付",
     "time": "2026-03-13",
     "ai_profile": "",
-    "order": 180
+    "order": 178
   },
   {
     "name": "楷瑞",
@@ -5315,7 +5194,7 @@
     "id": 201,
     "contact": "",
     "ai_profile": "",
-    "order": 181
+    "order": 179
   },
   {
     "name": "Jason",
@@ -5333,7 +5212,7 @@
     "id": 202,
     "contact": "",
     "ai_profile": "",
-    "order": 182
+    "order": 180
   },
   {
     "name": "刘旌",
@@ -5351,7 +5230,7 @@
     "id": 203,
     "contact": "",
     "ai_profile": "",
-    "order": 183
+    "order": 181
   },
   {
     "name": "J",
@@ -5369,7 +5248,7 @@
     "id": 208,
     "contact": "",
     "ai_profile": "",
-    "order": 184
+    "order": 182
   },
   {
     "name": "reegan",
@@ -5387,7 +5266,7 @@
     "id": 209,
     "contact": "",
     "ai_profile": "",
-    "order": 185
+    "order": 183
   },
   {
     "name": "aix",
@@ -5405,7 +5284,7 @@
     "id": 210,
     "contact": "",
     "ai_profile": "",
-    "order": 186
+    "order": 184
   },
   {
     "name": "David Shao",
@@ -5423,7 +5302,7 @@
     "id": 211,
     "contact": "",
     "ai_profile": "",
-    "order": 187
+    "order": 185
   },
   {
     "name": "李嘉",
@@ -5441,7 +5320,7 @@
     "id": 212,
     "contact": "",
     "ai_profile": "",
-    "order": 188
+    "order": 186
   },
   {
     "name": "Shirley",
@@ -5459,7 +5338,7 @@
     "id": 215,
     "contact": "",
     "ai_profile": "",
-    "order": 189
+    "order": 187
   },
   {
     "name": "Der wulfeit Nicht",
@@ -5493,10 +5372,10 @@
     "id": 217,
     "contact": "",
     "ai_profile": "",
-    "order": 190
+    "order": 188
   },
   {
-    "name": "A GritPeriod（二号）",
+    "name": "A GritPeriod🦷",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5512,7 +5391,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 191,
+    "order": 189,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5532,11 +5411,11 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 192,
+    "order": 190,
     "invited_by": "Patrick Liu"
   },
   {
-    "name": "欣欣（回复慢请见谅）",
+    "name": "欣欣 （回复慢请见谅）",
     "bio": "",
     "background": "",
     "skills": [],
@@ -5552,7 +5431,7 @@
     "intro": "尚未自我介绍",
     "time": "2026-03-17",
     "ai_profile": "",
-    "order": 193,
+    "order": 191,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5573,7 +5452,7 @@
     "time": "2026-03-18",
     "ai_profile": "",
     "invited_by": "Jeff",
-    "order": 194
+    "order": 192
   },
   {
     "name": "Ben",
@@ -5613,7 +5492,7 @@
     "time": "2026-03-20",
     "ai_profile": "",
     "invited_by": "ich liebe dich",
-    "order": 195
+    "order": 193
   },
   {
     "name": "James",
@@ -5631,7 +5510,7 @@
     "id": 224,
     "contact": "",
     "ai_profile": "",
-    "order": 196,
+    "order": 194,
     "invited_by": ""
   },
   {
@@ -5686,7 +5565,7 @@
     "id": 225,
     "contact": "",
     "ai_profile": "**详细背景**：十年游戏+十年全栈开发经验，背景涵盖游戏、医疗器械、金融、电信、电商行业\n**擅长**：为小商户整合系统、SEO、CRM运营维护\n**目标**：AI辅助测试，为Vibe Coding兜底\n**坐标**：尔湾，洛杉矶",
-    "order": 197,
+    "order": 195,
     "invited_by": ""
   },
   {
@@ -5705,7 +5584,7 @@
     "id": 226,
     "contact": "",
     "ai_profile": "",
-    "order": 198,
+    "order": 196,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5740,7 +5619,7 @@
     "id": 198,
     "contact": "",
     "ai_profile": "**详细背景**：连续创业者，创业两次。09年移动互联网创业，卖给了上市公司。19年创业AI+金融，给香港证券交易所及中金、中投、人保、太保、招商银行等提供过AI金融服务\n**近期动态**：刚写完一本用OpenClaw构建企业内部7×24小时产线的书\n**投资**：Race Capital的LP，看美国的AI项目，和美国合伙人做了个号介绍中国的投融资给美国市场\n**链接**：https://thecranechina.substack.com/",
-    "order": 199,
+    "order": 197,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5759,7 +5638,7 @@
     "id": 227,
     "contact": "",
     "ai_profile": "",
-    "order": 200,
+    "order": 198,
     "invited_by": ""
   },
   {
@@ -5778,7 +5657,7 @@
     "id": 228,
     "contact": "",
     "ai_profile": "",
-    "order": 201,
+    "order": 199,
     "invited_by": ""
   },
   {
@@ -5797,7 +5676,7 @@
     "id": 229,
     "contact": "",
     "ai_profile": "",
-    "order": 202,
+    "order": 200,
     "invited_by": ""
   },
   {
@@ -5816,11 +5695,11 @@
     "id": 230,
     "contact": "",
     "ai_profile": "",
-    "order": 203,
+    "order": 201,
     "invited_by": ""
   },
   {
-    "name": "吴俊东 Frank",
+    "name": "吴俊东Frank-Botlearn.ai",
     "intro": "尚未自我介绍",
     "bio": "",
     "background": "",
@@ -5835,7 +5714,7 @@
     "id": 231,
     "contact": "",
     "ai_profile": "",
-    "order": 204,
+    "order": 202,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5854,7 +5733,7 @@
     "id": 232,
     "contact": "",
     "ai_profile": "",
-    "order": 205,
+    "order": 203,
     "invited_by": ""
   },
   {
@@ -5873,7 +5752,7 @@
     "id": 233,
     "contact": "",
     "ai_profile": "",
-    "order": 206,
+    "order": 204,
     "invited_by": ""
   },
   {
@@ -5892,7 +5771,7 @@
     "id": 234,
     "contact": "",
     "ai_profile": "",
-    "order": 207,
+    "order": 205,
     "invited_by": ""
   },
   {
@@ -5911,7 +5790,7 @@
     "id": 235,
     "contact": "",
     "ai_profile": "",
-    "order": 208,
+    "order": 206,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5930,7 +5809,7 @@
     "id": 236,
     "contact": "",
     "ai_profile": "",
-    "order": 209,
+    "order": 207,
     "invited_by": ""
   },
   {
@@ -5973,7 +5852,7 @@
     "id": 237,
     "contact": "",
     "ai_profile": "**详细背景**：聚鲸创始人\n**业务方向**：\n• 聚鲸会议：赢在OpenClaw中国行（已完成深圳、杭州、上海、北京四站）、鲸鱼大会（四五月份杭州千人大会）\n• 聚鲸教育：在清华、北大开班，面向高管培训\n• 聚鲸FA：合作多家AI产业并购的上市公司\n• 聚鲸智能：AI To B解决方案提供商",
-    "order": 210,
+    "order": 208,
     "invited_by": "Patrick Liu"
   },
   {
@@ -5992,7 +5871,7 @@
     "id": 238,
     "contact": "",
     "ai_profile": "",
-    "order": 211,
+    "order": 209,
     "invited_by": ""
   },
   {
@@ -6011,7 +5890,7 @@
     "id": 239,
     "contact": "",
     "ai_profile": "",
-    "order": 212,
+    "order": 210,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6030,7 +5909,7 @@
     "id": 240,
     "contact": "",
     "ai_profile": "",
-    "order": 213,
+    "order": 211,
     "invited_by": ""
   },
   {
@@ -6049,7 +5928,7 @@
     "id": 241,
     "contact": "",
     "ai_profile": "",
-    "order": 214,
+    "order": 212,
     "invited_by": "Weimo 刘未未 PuppyGraph"
   },
   {
@@ -6068,7 +5947,7 @@
     "id": 242,
     "contact": "",
     "ai_profile": "",
-    "order": 215,
+    "order": 213,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6087,7 +5966,7 @@
     "id": 243,
     "contact": "",
     "ai_profile": "",
-    "order": 216,
+    "order": 214,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6106,11 +5985,11 @@
     "id": 244,
     "contact": "",
     "ai_profile": "",
-    "order": 217,
+    "order": 215,
     "invited_by": "吴俊东 Frank-Botlearn.ai"
   },
   {
-    "name": "木铎姐姐 (刘凤芹)",
+    "name": "木铎姐姐",
     "intro": "尚未自我介绍",
     "bio": "",
     "background": "",
@@ -6125,7 +6004,7 @@
     "id": 245,
     "contact": "",
     "ai_profile": "",
-    "order": 218,
+    "order": 216,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6144,7 +6023,7 @@
     "id": 246,
     "contact": "",
     "ai_profile": "",
-    "order": 219,
+    "order": 217,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6163,7 +6042,7 @@
     "id": 247,
     "contact": "",
     "ai_profile": "",
-    "order": 220,
+    "order": 218,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6198,7 +6077,7 @@
     "id": 248,
     "contact": "",
     "ai_profile": "**昵称**：leecz\n**坐标**：北京\n**背景**：20年企业数字化-农牧食品上市公司CIO/Cloud Gaming创业经历/EE背景/Wolfram enthusiast\n**擅长**：计算机体系架构/开放场景探索与问题分析\n**关注**：AI行业应用/自动化\n**一句话**：希望和各位朋友多沟通，互通有无，共同进步～",
-    "order": 221,
+    "order": 219,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6217,7 +6096,7 @@
     "id": 249,
     "contact": "",
     "ai_profile": "",
-    "order": 222,
+    "order": 220,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6236,7 +6115,7 @@
     "id": 250,
     "contact": "",
     "ai_profile": "",
-    "order": 223,
+    "order": 221,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6255,11 +6134,11 @@
     "id": 251,
     "contact": "",
     "ai_profile": "",
-    "order": 224,
+    "order": 222,
     "invited_by": "Patrick Liu"
   },
   {
-    "name": "ALLInCreateAmind.agi.top 张德祥",
+    "name": "ALLInCreateAmind.agi.top张德祥",
     "intro": "尚未自我介绍",
     "bio": "",
     "background": "",
@@ -6274,7 +6153,7 @@
     "id": 252,
     "contact": "",
     "ai_profile": "",
-    "order": 225,
+    "order": 223,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6305,7 +6184,7 @@
     "id": 253,
     "contact": "",
     "ai_profile": "**昵称**：混沌有形\n**坐标**：深圳\n**背景**：二手房出租管理\n**擅长**：个人成长，知识管理\n**关注**：AI，Agent\n**一句话**：想和各位大佬学习AI方面的知识",
-    "order": 226,
+    "order": 224,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6340,7 +6219,7 @@
     "id": 254,
     "contact": "",
     "ai_profile": "**昵称**：Royce\n**坐标**：深圳\n**背景**：金融/微众银行/国际发展部\n**擅长**：金融产品研究设计\n**关注**：AI agent\n**一句话**：向大家学习AI共存时期国际业务机会和落地场景",
-    "order": 227,
+    "order": 225,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6371,7 +6250,7 @@
     "id": 255,
     "contact": "",
     "ai_profile": "**昵称**：佳泽\n**坐标**：北京\n**背景**：医疗/精神营养学专家\n**擅长**：医疗机构+精准营养落地\n**关注**：AI Agent\n**一句话**：想与大佬们探讨AI Agent医疗/家庭应用落地场景及AI落地安全保障方案。",
-    "order": 228,
+    "order": 226,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6406,7 +6285,7 @@
     "id": 256,
     "contact": "",
     "ai_profile": "**昵称**：Haeron X\n**坐标**：上海\n**背景**：微软AI平台GPT，Claude，Image等Token和Agent市场业务负责人，OpenClaw Contributor\n**擅长**：Building, thinking and ship reality\n**关注**：the frontier of AI Agents\n**一句话**：Connect to AGI Builders, not talker",
-    "order": 229,
+    "order": 227,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6437,7 +6316,7 @@
     "id": 257,
     "contact": "",
     "ai_profile": "**昵称**：Kevin.Xu\n**坐标**：深圳\n**背景**：半导体/技术专家\n**擅长**：端侧AI Agent应用落地\n**关注**：AI Agent\n**一句话**：想与大佬们探讨AI Agent应用落地场景及AI落地安全保障方案。",
-    "order": 230,
+    "order": 228,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6468,7 +6347,7 @@
     "id": 258,
     "contact": "",
     "ai_profile": "**昵称**：Yewei\n**坐标**：长沙\n**背景**：金融/通信/教育\n**擅长**：商品期货期权与金融衍生品研究\n**关注**：AI agent\n**一句话**：探讨AI发展动向与人的价值",
-    "order": 231,
+    "order": 229,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6503,7 +6382,7 @@
     "id": 259,
     "contact": "",
     "ai_profile": "**昵称**：hehe\n**坐标**：北京\n**背景**：医疗/院内感染控制/教育\n**擅长**：全栈（垃圾代码整理）/院感/复杂性科学（一定了解）\n**关注**：AI agent\n**一句话**：之前做院内感染agent/目前在用agent做垃圾代码整理/对个体学习agent场景有兴趣。",
-    "order": 232,
+    "order": 230,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6522,7 +6401,7 @@
     "id": 260,
     "contact": "",
     "ai_profile": "",
-    "order": 233,
+    "order": 231,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6541,7 +6420,7 @@
     "id": 261,
     "contact": "",
     "ai_profile": "",
-    "order": 234,
+    "order": 232,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6560,7 +6439,7 @@
     "id": 262,
     "contact": "",
     "ai_profile": "",
-    "order": 235,
+    "order": 233,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6579,7 +6458,7 @@
     "id": 263,
     "contact": "",
     "ai_profile": "",
-    "order": 236,
+    "order": 234,
     "invited_by": "Patrick Liu"
   },
   {
@@ -6598,7 +6477,369 @@
     "id": 264,
     "contact": "",
     "ai_profile": "",
-    "order": 237,
+    "order": 235,
     "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "高嵩",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 269,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 236
+  },
+  {
+    "name": "王伟",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 270,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 237
+  },
+  {
+    "name": "Smoke",
+    "intro": "物流行业/海外仓 CEO，坐标洛杉矶、新泽西。\n\n擅长：Openclaw在物流行业的应用/Openclaw海外仓实施系统\n关注：Openclaw实际应用\n一句话：找合作伙伴，将Openclaw实际应用快速推广\n\n产品：Openclaw—海外仓实施系统",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "洛杉矶"
+      },
+      {
+        "category": "city",
+        "label": "新泽西"
+      },
+      {
+        "category": "industry",
+        "label": "物流/海外仓"
+      },
+      {
+        "category": "career",
+        "label": "CEO"
+      }
+    ],
+    "id": 265,
+    "contact": "",
+    "ai_profile": "物流行业/海外仓/CEO，坐标洛杉矶、新泽西。\n\n擅长：Openclaw在物流行业的应用/Openclaw海外仓实施系统\n关注：Openclaw实际应用\n一句话：找合作伙伴，将Openclaw实际应用快速推广\n\n产品：Openclaw—海外仓实施系统",
+    "order": 238,
+    "invited_by": "Patrick Liu"
+  },
+  {
+    "name": "dongxu(有时差回复慢)",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 271,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 239
+  },
+  {
+    "name": "高书征",
+    "intro": "坐标山东青岛，AI创业10年，从工业3D视觉研发到垂直赛道大规模模拟，目前做矿山上下游垂直生态的“身份认证+供需信息+分级权限”信息服务平台，80万短视频粉丝，2000家企业会员用户。\n\n擅长：早年做AI在工业领域落地，目前做垂直赛道大数据+信息服务，对AI在传统行业落地的边界和节奏更熟悉\n关注：OpenClaw进展及在传统产业的应用\n一句话：对AI重构传统产业供需匹配和上下游人脉链接感兴趣的朋友",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "青岛"
+      },
+      {
+        "category": "industry",
+        "label": "AI/人工智能"
+      },
+      {
+        "category": "industry",
+        "label": "矿山/传统产业"
+      },
+      {
+        "category": "career",
+        "label": "创业者"
+      }
+    ],
+    "id": 267,
+    "contact": "",
+    "ai_profile": "坐标山东青岛，AI创业10年，从工业3D视觉研发到垂直赛道大规模模拟，目前做矿山上下游垂直生态的“身份认证+供需信息+分级权限”信息服务平台，80万短视频粉丝，2000家企业会员用户。\n\n擅长：早年做AI在工业领域落地，目前做垂直赛道大数据+信息服务，对AI在传统行业落地的边界和节奏更熟悉\n关注：OpenClaw进展及在传统产业的应用\n一句话：对AI重构传统产业供需匹配和上下游人脉链接感兴趣的朋友",
+    "order": 240,
+    "invited_by": "迟小羽"
+  },
+  {
+    "name": "Joy",
+    "intro": "坐标湾区，自有工厂 + 亚马逊跨境电商。\n\n关注：自动化流程工作\n一句话：想对接 AI 自动化 SOP 系统 + 品牌推广",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [
+      {
+        "category": "city",
+        "label": "湾区"
+      },
+      {
+        "category": "industry",
+        "label": "跨境电商"
+      },
+      {
+        "category": "industry",
+        "label": "制造/工厂"
+      }
+    ],
+    "id": 266,
+    "contact": "",
+    "ai_profile": "坐标湾区，自有工厂 + 亚马逊跨境电商。\n\n关注：自动化流程工作\n一句话：想对接 AI 自动化 SOP 系统 + 品牌推广",
+    "order": 241,
+    "invited_by": "July to Antares"
+  },
+  {
+    "name": "机器人工坊长",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 272,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 242
+  },
+  {
+    "name": "Anita",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 273,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 243
+  },
+  {
+    "name": "王亚卿",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 274,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 244
+  },
+  {
+    "name": "张乔熙Joecy",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 275,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 245
+  },
+  {
+    "name": "吴文杰",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 276,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 246
+  },
+  {
+    "name": "Shawn",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 277,
+    "contact": "",
+    "intro": "",
+    "time": "",
+    "ai_profile": "",
+    "order": 247
+  },
+  {
+    "name": "Laura.",
+    "bio": "1exit founder，Collov Labs 增长负责人，关注产品增长的 vibe coding",
+    "background": "1exit founder；head of growth @ Collov Labs",
+    "skills": [
+      "GTM",
+      "用户调研",
+      "增长",
+      "0-1",
+      "1-10",
+      "Vibe Coding"
+    ],
+    "city": "硅谷",
+    "tags": [
+      {
+        "category": "city",
+        "label": "硅谷"
+      },
+      {
+        "category": "career",
+        "label": "创业者"
+      },
+      {
+        "category": "company",
+        "label": "Collov Labs"
+      },
+      {
+        "category": "skill",
+        "label": "GTM"
+      },
+      {
+        "category": "skill",
+        "label": "增长"
+      },
+      {
+        "category": "interest",
+        "label": "Vibe Coding"
+      }
+    ],
+    "id": 278,
+    "contact": "",
+    "intro": "坐标硅谷，1exit founder，head of growth @ Collov Labs。\n\n擅长：0-1、1-10 GTM、用户调研触达和增长\n关注：产品增长的 vibe coding\n一句话：想链接 dev/founder",
+    "time": "2026-05-06",
+    "ai_profile": "**昵称**：Laura\n**坐标**：硅谷\n**背景**：1exit founder；head of growth @ Collov Labs\n**擅长**：0-1、1-10 GTM / 用户调研触达 / 增长\n**关注**：产品增长的 vibe coding\n**一句话**：想链接 dev/founder",
+    "order": 248
+  },
+  {
+    "name": "Xing",
+    "bio": "计算机科学与技术背景，擅长 NLP 和 Speech Processing，关注 AI Agent 与强化学习",
+    "background": "计算机科学与技术",
+    "skills": [
+      "NLP",
+      "Speech Processing",
+      "AI Agent",
+      "Reinforcement Learning"
+    ],
+    "city": "Sunnyvale",
+    "tags": [
+      {
+        "category": "city",
+        "label": "Sunnyvale"
+      },
+      {
+        "category": "industry",
+        "label": "AI/人工智能"
+      },
+      {
+        "category": "skill",
+        "label": "NLP"
+      },
+      {
+        "category": "skill",
+        "label": "Speech Processing"
+      },
+      {
+        "category": "skill",
+        "label": "AI Agent"
+      },
+      {
+        "category": "skill",
+        "label": "Reinforcement Learning"
+      }
+    ],
+    "id": 279,
+    "contact": "",
+    "intro": "坐标 Sunnyvale，计算机科学与技术背景。\n\n擅长：NLP、Speech Processing\n关注：AI Agent + Reinforcement Learning\n一句话：希望广交朋友",
+    "time": "2026-05-06",
+    "ai_profile": "**昵称**：Xing\n**坐标**：Sunnyvale\n**背景**：计算机科学与技术\n**擅长**：NLP / Speech Processing\n**关注**：AI Agent + Reinforcement Learning\n**一句话**：希望广交朋友",
+    "order": 249
+  },
+  {
+    "name": "wuwuwuwu",
+    "intro": "坐标 Bay Area，最近在做 hirey.ai，一个很早期的 agent-native matching 实验。\n\n背景：希望把一小群已经有 OpenClaw 或其他 agent 的用户连接起来，让大家体验新的社交 / 协作方式\n擅长/探索：用 agent 帮人发现合适的人，并自然地把线上聊天或线下见面约起来\n关注：OpenClaw、agent、个人 agent、AI 应用层，以及 agent 如何帮人与人找到彼此\n一句话：以后每个人都会有自己的 agent，而人与人之间的发现和连接，应该像打开水龙头一样简单、自然、随手可得",
+    "bio": "正在做 hirey.ai，一个早期的 agent-native matching 实验",
+    "background": "在 Bay Area 做 hirey.ai，探索用个人 agent 帮人发现合适的人，并自然连接线上聊天或线下见面。",
+    "skills": [
+      "Agent-native matching",
+      "OpenClaw",
+      "个人 Agent",
+      "AI 应用层",
+      "社交协作"
+    ],
+    "city": "Bay Area",
+    "tags": [
+      {
+        "category": "city",
+        "label": "湾区"
+      },
+      {
+        "category": "company",
+        "label": "hirey.ai"
+      },
+      {
+        "category": "industry",
+        "label": "AI/人工智能"
+      },
+      {
+        "category": "interest",
+        "label": "Agent-native matching"
+      },
+      {
+        "category": "interest",
+        "label": "个人 Agent"
+      },
+      {
+        "category": "interest",
+        "label": "OpenClaw"
+      }
+    ],
+    "id": 280,
+    "contact": "",
+    "ai_profile": "**昵称**：wuwuwuwu\n**坐标**：Bay Area\n**背景**：正在做 hirey.ai，一个很早期的 agent-native matching 实验，想先连接一小群已经有 OpenClaw 或其他 agent 的用户\n**擅长/探索**：让 agent 帮人发现合适的人，并自然地把线上聊天或线下见面约起来\n**关注**：OpenClaw / agent / 个人 agent / AI 应用层 / agent-native matching\n**一句话**：以后每个人都会有自己的 agent，而人与人之间的发现和连接，应该简单、自然、随手可得",
+    "order": 250
+  },
+  {
+    "name": "无尽的枫",
+    "intro": "",
+    "bio": "",
+    "background": "",
+    "skills": [],
+    "city": "",
+    "tags": [],
+    "id": 281,
+    "contact": "",
+    "ai_profile": "",
+    "order": 251
   }
 ]
