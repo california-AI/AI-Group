@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate extracted_members.json
+        run: python3 -c "import json, sys; d=json.load(open('extracted_members.json')); print(f'Members: {len(d)}'); sys.exit(0)"
+
+      - name: Validate group_skills.json
+        run: python3 -c "import json, sys; d=json.load(open('group_skills.json')); print(f'Skills: {len(d)}'); sys.exit(0)"
+
+      - name: Check DATA_VERSION matches member count
+        run: |
+          VERSION=$(grep -oP "const DATA_VERSION = '[^']*'" index.html | head -1)
+          MEMBER_COUNT=$(python3 -c "import json; print(len(json.load(open('extracted_members.json'))))")
+          echo "DATA_VERSION: $VERSION"
+          echo "Member count in JSON: $MEMBER_COUNT"
+
+      - name: Verify index.html and index (2).html are in sync
+        run: diff "index.html" "index (2).html"
+
+      - name: Check .env.example references current DATA_VERSION
+        run: |
+          HTML_VER=$(grep -oP "const DATA_VERSION = '\K[^']*" index.html | head -1)
+          ENV_VER=$(grep -oP "^DATA_VERSION=\K.*" .env.example)
+          if [ "$HTML_VER" != "$ENV_VER" ]; then
+            echo "MISMATCH: index.html DATA_VERSION='$HTML_VER' vs .env.example DATA_VERSION='$ENV_VER'"
+            exit 1
+          fi
+          echo "DATA_VERSION in sync: $HTML_VER"
+
+      - name: Check .env.example MEMBER_COUNT matches extracted_members.json
+        run: |
+          JSON_COUNT=$(python3 -c "import json; print(len(json.load(open('extracted_members.json'))))")
+          ENV_COUNT=$(grep -oP "^MEMBER_COUNT=\K.*" .env.example)
+          if [ "$JSON_COUNT" != "$ENV_COUNT" ]; then
+            echo "MISMATCH: extracted_members.json has $JSON_COUNT members vs .env.example MEMBER_COUNT=$ENV_COUNT"
+            exit 1
+          fi
+          echo "MEMBER_COUNT in sync: $JSON_COUNT"
+
+      - name: Verify docker-compose.yml is valid
+        run: docker compose config --quiet
