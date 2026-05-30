@@ -1,4 +1,7 @@
 import json, re
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 # ============================================================
 # 205 members from sorted screenshots (folder 6/排序)
@@ -294,7 +297,7 @@ name_corrections = {
 }
 
 # Load existing member data
-with open("D:/projects/MIMI/群文件整理/extracted_members.json", "r", encoding="utf-8") as f:
+with open(BASE_DIR / "extracted_members.json", "r", encoding="utf-8") as f:
     members = json.load(f)
 
 by_name = {m["name"]: m for m in members}
@@ -376,7 +379,7 @@ for m in ordered[-10:]:
     print(f"  #{m['order']} {m['name']} [{intro_flag}]")
 
 # Save JSON
-with open("D:/projects/MIMI/群文件整理/extracted_members.json", "w", encoding="utf-8") as f:
+with open(BASE_DIR / "extracted_members.json", "w", encoding="utf-8") as f:
     json.dump(ordered, f, ensure_ascii=False, indent=2)
 
 # ============================================================
@@ -385,7 +388,7 @@ with open("D:/projects/MIMI/群文件整理/extracted_members.json", "w", encodi
 compact = json.dumps(ordered, ensure_ascii=False, separators=(',', ':'))
 assert '\n' not in compact
 
-with open("D:/projects/MIMI/群文件整理/index (2).html", "r", encoding="utf-8") as f:
+with open(BASE_DIR / "index (2).html", "r", encoding="utf-8") as f:
     html = f.read()
 
 new_code = f"const DEFAULT_MEMBERS = {compact};"
@@ -402,7 +405,7 @@ html_new = re.sub(
     html_new, count=1
 )
 
-with open("D:/projects/MIMI/群文件整理/index (2).html", "w", encoding="utf-8") as f:
+with open(BASE_DIR / "index (2).html", "w", encoding="utf-8") as f:
     f.write(html_new)
 
 # Verify single-line

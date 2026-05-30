@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-PATH = Path("D:/projects/MIMI/群文件整理/extracted_members.json")
+PATH = Path(__file__).resolve().parent / "extracted_members.json"
 
 with PATH.open("r", encoding="utf-8") as f:
     members = json.load(f)

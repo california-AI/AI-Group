@@ -1494,7 +1494,7 @@ function renderMembers() {
 function memberCard(m) {
   const color = getColor(m.name);
   const initial = m.name.charAt(0);
-  const tags = (m.tags || []).slice(0, 6).map(t => `<span class="tag ${t.category}">${t.label}</span>`).join('');
+  const tags = (m.tags || []).slice(0, 6).map(t => `<span class="tag ${esc(t.category)}">${esc(t.label)}</span>`).join('');
   const timeStr = m.time ? new Date(m.time).toLocaleDateString('zh-CN') : '';
   const memberProducts = products.filter(p => String(p.founderId) === String(m.id) || p.founderName === m.name);
   const badgeHtml = memberProducts.length > 0
@@ -1528,7 +1528,7 @@ function renderGroupView(data, container) {
   let html = '<div class="group-view">';
   for (const [label, items] of Object.entries(groups).sort((a, b) => b[1].length - a[1].length)) {
     html += `<div class="group-section">
-      <div class="group-title">${label} <span class="count">${items.length}人</span></div>
+      <div class="group-title">${esc(label)} <span class="count">${items.length}人</span></div>
       <div class="group-cards">${items.map(m => memberCard(m)).join('')}</div>
     </div>`;
   }
@@ -1558,7 +1558,7 @@ function renderTagFilters() {
   }));
   const sorted = Object.values(allTags).sort((a, b) => b.count - a.count).slice(0, 20);
   document.getElementById('tagFilters').innerHTML = sorted.map(t =>
-    `<span class="tag-filter ${t.category}${activeFilter === t.label ? ' active' : ''}" onclick="filterByTag('${t.label}')">${t.label} (${t.count})</span>`
+    `<span class="tag-filter ${esc(t.category)}${activeFilter === t.label ? ' active' : ''}" onclick="filterByTag(${JSON.stringify(t.label)})">${esc(t.label)} (${t.count})</span>`
   ).join('');
 }
 
@@ -1579,7 +1579,7 @@ function showDetail(id) {
   const m = members.find(x => String(x.id) === String(id));
   if (!m) return;
   const color = getColor(m.name);
-  const tags = (m.tags || []).map(t => `<span class="detail-tag tag ${t.category}">${t.label}</span>`).join('');
+  const tags = (m.tags || []).map(t => `<span class="detail-tag tag ${esc(t.category)}">${esc(t.label)}</span>`).join('');
   
   // Find similar members
   const myTags = new Set((m.tags || []).map(t => t.label));
@@ -1597,7 +1597,7 @@ function showDetail(id) {
           <div class="recommend-avatar" style="background:${getColor(s.name)}">${s.name[0]}</div>
           <div>
             <div class="recommend-name">${esc(s.name)}</div>
-            <div class="recommend-reason">共同标签: ${s.commonTags.map(t => t.label).join(', ')}</div>
+            <div class="recommend-reason">共同标签: ${s.commonTags.map(t => esc(t.label)).join(', ')}</div>
           </div>
         </div>`).join('')}
       </div>
@@ -1647,7 +1647,7 @@ function showEditModal(id) {
 
 function renderEditTags() {
   document.getElementById('editTags').innerHTML = editingTags.map((t, i) =>
-    `<span class="form-tag tag ${t.category}">${t.label} <span class="remove" onclick="editingTags.splice(${i},1);renderEditTags()">×</span></span>`
+    `<span class="form-tag tag ${esc(t.category)}">${esc(t.label)} <span class="remove" onclick="editingTags.splice(${i},1);renderEditTags()">×</span></span>`
   ).join('');
 }
 
@@ -1951,7 +1951,7 @@ function renderIndustryPie() {
 
   const pieStyle = gradParts.length ? `background:conic-gradient(${gradParts.join(',')})` : 'background:var(--bg3)';
   const legend = sorted.map(([label, v], i) =>
-    `<div class="legend-item"><span class="legend-dot" style="background:${colors[i % colors.length]}"></span>${label}<span class="legend-val">${v}人 (${Math.round(v/memberTotal*100)}%)</span></div>`
+    `<div class="legend-item"><span class="legend-dot" style="background:${colors[i % colors.length]}"></span>${esc(label)}<span class="legend-val">${v}人 (${Math.round(v/memberTotal*100)}%)</span></div>`
   ).join('');
 
   document.getElementById('industryPie').innerHTML = `
@@ -1970,7 +1970,7 @@ function renderCityBars() {
 
   document.getElementById('cityBars').innerHTML = sorted.map(([label, v], i) =>
     `<div class="bar-row">
-      <span class="bar-label">${label}</span>
+      <span class="bar-label">${esc(label)}</span>
       <div class="bar-track"><div class="bar-fill" style="width:${(v/max)*100}%;background:${colors[i % colors.length]}"><span class="bar-val">${v}人</span></div></div>
     </div>`
   ).join('') || '<div style="color:var(--text3);font-size:.85rem;padding:20px;text-align:center">暂无数据</div>';
@@ -2032,7 +2032,7 @@ function renderSkillCloud() {
   document.getElementById('skillCloud').innerHTML = sorted.map(([label, v]) => {
     const size = 0.7 + (v / max) * 0.6;
     const opacity = 0.5 + (v / max) * 0.5;
-    return `<span class="cloud-word" style="font-size:${size}rem;opacity:${opacity};background:rgba(0,212,255,${0.05 + (v/max)*0.15})">${label}</span>`;
+    return `<span class="cloud-word" style="font-size:${size}rem;opacity:${opacity};background:rgba(0,212,255,${0.05 + (v/max)*0.15})">${esc(label)}</span>`;
   }).join('') || '<div style="color:var(--text3);font-size:.85rem">暂无数据</div>';
 }
 
@@ -2058,7 +2058,7 @@ function renderNetwork() {
       <div class="network-info">
         <div class="network-name">${esc(p.a.name)} ↔ ${esc(p.b.name)}</div>
         <div class="network-match">${p.score} 个共同标签</div>
-        <div class="network-tags">${p.common.slice(0, 3).map(t => `<span class="network-tag">${t.label}</span>`).join('')}</div>
+        <div class="network-tags">${p.common.slice(0, 3).map(t => `<span class="network-tag">${esc(t.label)}</span>`).join('')}</div>
       </div>
     </div>`
   ).join('') || '<div style="color:var(--text3);font-size:.85rem;padding:10px">暂无推荐</div>';
@@ -2408,7 +2408,7 @@ function initGraph() {
   const filtersEl = document.getElementById('graphIndustryFilters');
   if (filtersEl) {
     filtersEl.innerHTML = Object.entries(industries).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([label,c]) =>
-      `<span class="graph-pill${graphFilter===label?' active':''}" onclick="setGraphFilter('${label}',this)">${label}(${c})</span>`
+      `<span class="graph-pill${graphFilter===label?' active':''}" onclick="setGraphFilter(${JSON.stringify(label)},this)">${esc(label)}(${c})</span>`
     ).join('');
   }
 
@@ -2686,7 +2686,7 @@ function searchByNeed() {
   document.getElementById('matchResultTitle').textContent = `"${q}" 匹配结果`;
   document.getElementById('matchResultCount').textContent = results.length + ' 位';
   document.getElementById('matchResults').innerHTML = results.length ? results.map(r => {
-    const tags = (r.tags||[]).slice(0,4).map(t=>`<span class="match-reason ${t.category}">${t.label}</span>`).join('');
+    const tags = (r.tags||[]).slice(0,4).map(t=>`<span class="match-reason ${esc(t.category)}">${esc(t.label)}</span>`).join('');
     return `<div class="match-card" onclick="showDetail('${r.id}')">
       <div class="match-card-header">
         <div class="match-score-badge">${r.score}分</div>
@@ -2769,7 +2769,7 @@ function wallCard(p) {
   return `<div class="wall-card" data-cat="${esc(p.cat)}">
     <div class="wall-card-del" onclick="deleteWallPost('${p.id}')">🗑️</div>
     <div class="wall-card-header">
-      <span class="wall-cat-badge ${p.cat}">${p.cat}</span>
+      <span class="wall-cat-badge ${esc(p.cat)}">${esc(p.cat)}</span>
       <div class="wall-card-title">${esc(p.title)}</div>
     </div>
     <div class="wall-card-content">${esc(p.content)}</div>
@@ -2895,8 +2895,8 @@ function initSkillMatch() {
   const needEl = document.getElementById('needQuickTags');
   const offerEl = document.getElementById('offerQuickTags');
   const quickTags = getSkillQuickTags();
-  if (needEl) needEl.innerHTML = quickTags.map(s=>`<span class="skill-quick-tag" onclick="toggleSkillTag(this,'need','${s}')">${esc(s)}</span>`).join('');
-  if (offerEl) offerEl.innerHTML = quickTags.map(s=>`<span class="skill-quick-tag" onclick="toggleSkillTag(this,'offer','${s}')">${esc(s)}</span>`).join('');
+  if (needEl) needEl.innerHTML = quickTags.map(s=>`<span class="skill-quick-tag" onclick="toggleSkillTag(this,'need',${JSON.stringify(s).replace(/</g,'\\u003c')})">${esc(s)}</span>`).join('');
+  if (offerEl) offerEl.innerHTML = quickTags.map(s=>`<span class="skill-quick-tag" onclick="toggleSkillTag(this,'offer',${JSON.stringify(s).replace(/</g,'\\u003c')})">${esc(s)}</span>`).join('');
 }
 
 function toggleSkillTag(el, mode, tag) {
@@ -2945,7 +2945,7 @@ function doSkillMatch(mode) {
       <div class="skill-result-avatar" style="background:${getColor(r.name)}">${r.name[0]}</div>
       <div class="skill-result-info">
         <div class="skill-result-name">${esc(r.name)}</div>
-        <div class="skill-result-match">匹配度 ${r.score} · ${(r.tags||[]).slice(0,2).map(t=>t.label).join(' · ')}</div>
+        <div class="skill-result-match">匹配度 ${r.score} · ${(r.tags||[]).slice(0,2).map(t=>esc(t.label)).join(' · ')}</div>
         <div class="skill-result-tags">${tagHtml}</div>
       </div>
       <button class="skill-connect-btn" onclick="event.stopPropagation();showContactCard('${r.id}')">联系 →</button>
@@ -2964,7 +2964,7 @@ function showContactCard(memberId) {
   const city = (m.tags||[]).find(t=>t.category==='city');
   document.getElementById('ccTitle').textContent = [career?.label, city?.label].filter(Boolean).join(' · ') || '群成员';
   document.getElementById('ccIntro').textContent = (m.intro||'暂无介绍').slice(0,120) + ((m.intro||'').length>120?'...':'');
-  document.getElementById('ccTags').innerHTML = (m.tags||[]).slice(0,6).map(t=>`<span class="tag ${t.category}">${t.label}</span>`).join('');
+  document.getElementById('ccTags').innerHTML = (m.tags||[]).slice(0,6).map(t=>`<span class="tag ${esc(t.category)}">${esc(t.label)}</span>`).join('');
   document.getElementById('ccViewProfile').onclick = () => {
     document.getElementById('contactCardOverlay').classList.remove('show');
     setTimeout(()=>showDetail(memberId),200);
